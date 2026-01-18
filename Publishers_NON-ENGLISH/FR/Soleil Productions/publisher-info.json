@@ -1,0 +1,20 @@
+{
+  "name": "Soleil Productions",
+  "slug": "soleil-productions",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.editions-soleil.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editions-soleil.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

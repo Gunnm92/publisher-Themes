@@ -1,0 +1,20 @@
+{
+  "name": "Les Malins",
+  "slug": "les-malins",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.lesmalins.ca/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lesmalins.ca/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

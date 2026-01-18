@@ -1,0 +1,20 @@
+{
+  "name": "Flammarion",
+  "slug": "flammarion",
+  "country": "FR",
+  "description": "",
+  "website": "https://editions.flammarion.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editions.flammarion.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

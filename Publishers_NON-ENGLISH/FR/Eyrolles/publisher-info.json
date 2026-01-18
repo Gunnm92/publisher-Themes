@@ -1,0 +1,20 @@
+{
+  "name": "Eyrolles",
+  "slug": "eyrolles",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.eyrolles.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.eyrolles.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

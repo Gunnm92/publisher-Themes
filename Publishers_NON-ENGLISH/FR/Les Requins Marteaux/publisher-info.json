@@ -1,0 +1,20 @@
+{
+  "name": "Les Requins Marteaux",
+  "slug": "les-requins-marteaux",
+  "country": "FR",
+  "description": "Basés à Bordeaux depuis 2011, Les Requins Marteaux développent depuis bientôt deux décennies une structure des plus atypiques dans le milieu de la bande dessinée. À la fois éditeurs, producteurs de films, concepteurs d’expositions et organisateurs de festivals, leur approche tentaculaire décline sur différents supports l’univers souvent irrévérencieux et sans concessions des auteurs maison.",
+  "website": "http://www.lesrequinsmarteaux.com/livres",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.lesrequinsmarteaux.com/livres"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

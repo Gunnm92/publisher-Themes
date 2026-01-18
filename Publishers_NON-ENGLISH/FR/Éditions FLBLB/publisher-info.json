@@ -1,0 +1,20 @@
+{
+  "name": "Éditions FLBLB",
+  "slug": "ditions-flblb",
+  "country": "FR",
+  "description": "Fondées en 2002, les éditions FLBLB publient bandes dessi­nées, romans-photos, flip-books, textes illus­trés, avec un goût prononcé pour le récit (mais pas que), la déri­sion et l’hu­mour (mais pas que), l’his­toire et le docu­men­taire (mais pas que), en tout cas toujours en lien avec le monde si beau dans lequel on vit (mais pas que). On a failli s’ap­pe­ler les éditions Mais pas que, fina­le­ment on a opté pour FLBLB (le bruit que ça fait quand on tire la langue, « Flebe­leb ! ») vache­ment plus simple à pronon­cer à tous les âges, nour­ris­son, ado, dans la force de l’âge ou complè­te­ment décré­pit-e.",
+  "website": "https://www.flblb.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.flblb.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

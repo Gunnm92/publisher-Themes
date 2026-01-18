@@ -1,0 +1,19 @@
+{
+  "name": "Zanpano",
+  "slug": "zanpano",
+  "country": "FR",
+  "description": "",
+  "website": "http://www.zanpano.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.zanpano.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

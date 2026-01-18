@@ -1,0 +1,19 @@
+{
+  "name": "12bis",
+  "slug": "12bis",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.glenat.com/bd/collections/12bis",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.glenat.com/bd/collections/12bis"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

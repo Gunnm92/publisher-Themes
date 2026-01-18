@@ -1,0 +1,20 @@
+{
+  "name": "Tabou",
+  "slug": "tabou",
+  "country": "FR",
+  "description": "Depuis 2005, les éditions Tabou sont une référence en matière d’érotisme, de thématiques controversées et de sujets dérangeants. Tabou Éditions publie une quinzaine d’ouvrages par an, sous forme de guides pratiques, de nouvelles, romans et essais ou encore de bandes dessinées.",
+  "website": "https://www.tabou-editions.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.tabou-editions.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

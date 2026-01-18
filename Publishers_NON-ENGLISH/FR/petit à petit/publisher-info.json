@@ -1,0 +1,20 @@
+{
+  "name": "petit à petit",
+  "slug": "petit-petit",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.petitapetit.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.petitapetit.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

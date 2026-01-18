@@ -1,0 +1,20 @@
+{
+  "name": "Dynamite",
+  "slug": "dynamite",
+  "country": "FR",
+  "description": "Dynamite, fondé en 2002 est un label de &quot;La musardine&quot;.",
+  "website": "https://www.lamusardine.com/1554-dynamite",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lamusardine.com/1554-dynamite"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

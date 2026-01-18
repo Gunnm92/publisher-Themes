@@ -1,0 +1,19 @@
+{
+  "name": "Contre-dires",
+  "slug": "contre-dires",
+  "country": "FR",
+  "description": "Liberté de pensée et liberté d’expression, Contre-Dires est une marque éditoriale libertaire mais aussi libertine à ses heures, où les auteurs peuvent exprimer leurs opinions, le fruit de leurs recherches ou témoigner de leur vécu sans risquer la censure. Qu’il s’agisse de sexualité, du monde des sciences, des anges, des rêves ou d’ésotérisme, vous y trouverez des livres captivants ainsi qu’une multitude de coffrets ludiques, pratiques, esthétiques, éclectiques… pour satisfaire un très large public !",
+  "website": "https://www.editions-tredaniel.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editions-tredaniel.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Urban China",
+  "slug": "urban-china",
+  "country": "FR",
+  "description": "Entre tradition et modernité, la ligne éditoriale d’Urban China a pour vocation de faire découvrir au public occidental de nouveaux auteurs talentueux, le manhua et la culture chinoise.",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Actes Sud",
+  "slug": "actes-sud",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.actes-sud.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.actes-sud.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Jungle !",
+  "slug": "jungle",
+  "country": "FR",
+  "description": "",
+  "website": "https://editions-jungle.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg",
+    "logos": [
+      "[[FOLDER]]/logo.jpg",
+      "[[FOLDER]]/logo copy.jpg"
+    ]
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editions-jungle.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

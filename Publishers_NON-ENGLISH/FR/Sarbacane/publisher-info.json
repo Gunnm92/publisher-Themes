@@ -1,0 +1,20 @@
+{
+  "name": "Sarbacane",
+  "slug": "sarbacane",
+  "country": "FR",
+  "description": "",
+  "website": "https://editions-sarbacane.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editions-sarbacane.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

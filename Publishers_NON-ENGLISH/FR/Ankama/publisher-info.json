@@ -1,0 +1,20 @@
+{
+  "name": "Ankama",
+  "slug": "ankama",
+  "country": "FR",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg",
+    "logos": [
+      "[[FOLDER]]/logo.jpg",
+      "[[FOLDER]]/logo2.jpg",
+      "[[FOLDER]]/logo3.jpg"
+    ]
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

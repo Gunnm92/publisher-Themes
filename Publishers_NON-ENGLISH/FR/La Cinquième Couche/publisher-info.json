@@ -1,0 +1,20 @@
+{
+  "name": "La Cinquième Couche",
+  "slug": "la-cinqui-me-couche",
+  "country": "FR",
+  "description": "",
+  "website": "https://5c.be/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://5c.be/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

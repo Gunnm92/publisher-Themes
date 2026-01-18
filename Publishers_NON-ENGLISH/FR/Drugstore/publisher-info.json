@@ -1,0 +1,14 @@
+{
+  "name": "Drugstore",
+  "slug": "drugstore",
+  "country": "FR",
+  "description": "Les éditions Vent des savanes qui reprenaient le catalogue BD d’Albin Michel changent de nom dès septembre 2008 pour se transformer en éditions Drugstore.",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

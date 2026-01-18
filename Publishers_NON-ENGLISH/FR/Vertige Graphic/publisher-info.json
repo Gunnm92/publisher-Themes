@@ -1,0 +1,15 @@
+{
+  "name": "Vertige Graphic",
+  "slug": "vertige-graphic",
+  "country": "FR",
+  "description": "Vertige Graphic est une maison d&#x27;édition française de bande dessinée créée en janvier 1987 par Giusti Zuccato, Latino Imparato et Gianni Miriantini.",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

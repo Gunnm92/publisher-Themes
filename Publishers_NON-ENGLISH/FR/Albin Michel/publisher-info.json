@@ -1,0 +1,19 @@
+{
+  "name": "Albin Michel",
+  "slug": "albin-michel",
+  "country": "FR",
+  "description": "Les éditions Albin Michel sont une maison d&#x27;édition française indépendante, fondée en 1900 par Albin Michel.",
+  "website": "https://www.albin-michel.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.albin-michel.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

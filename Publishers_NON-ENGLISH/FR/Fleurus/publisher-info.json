@@ -1,0 +1,20 @@
+{
+  "name": "Fleurus",
+  "slug": "fleurus",
+  "country": "FR",
+  "description": "Les éditions Fleurus sont une filiale de Média-Participations, l&#x27;un des plus importants groupes français d&#x27;édition. Les éditions Fleurus sont leader en édition jeunesse avec des livres d&#x27;éveil pour les bébés, des histoires pour petits et grands, des romans, des livres d&#x27;activités et des documentaires pour enfants de 3 à 12 ans..",
+  "website": "https://www.fleuruseditions.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.fleuruseditions.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}
