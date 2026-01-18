@@ -5,7 +5,8 @@
   "description": "",
   "website": "http://www.zanpano.com/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [
     {

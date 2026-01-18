@@ -5,12 +5,17 @@
   "description": "",
   "website": "https://www.actes-sud.fr/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [
     {
       "label": "Site officiel",
       "url": "https://www.actes-sud.fr/"
+    },
+    {
+      "label": "Site officiel",
+      "url": "http://www.actes-sud.fr"
     }
   ],
   "labels": [],

@@ -3,12 +3,17 @@
   "slug": "tonkam",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "http://Delcourt Manga",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://Delcourt Manga"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

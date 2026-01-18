@@ -3,12 +3,17 @@
   "slug": "bamboo",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "https://www.bamboo.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.bamboo.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

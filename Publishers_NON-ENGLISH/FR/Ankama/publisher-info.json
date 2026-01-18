@@ -3,7 +3,7 @@
   "slug": "ankama",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "http://Ankama Editions",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg",
@@ -13,7 +13,12 @@
       "[[FOLDER]]/logo3.jpg"
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://Ankama Editions"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

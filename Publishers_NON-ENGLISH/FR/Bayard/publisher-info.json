@@ -5,7 +5,8 @@
   "description": "De l&#x27;album à la BD, du livre de poche au roman et au documentaire , le catalogue jeunesse de Bayard Editions propose 1 500 titres accessibles à tous, au contenu adapté à chaque enfant, selon ses capacités ou selon ses goûts. Editeur catholique ouvert aux cultures modernes, le catalogue adulte propose chaque année plus de 70 nouveautés au coeur des intérêts les plus contemporains : histoire et enseignement des religions, foi et recherches spirituelles, Bible, vie de l&#x27;Eglise mais aussi en philosophie, sciences, psychanalyse...",
   "website": "https://www.bayard-editions.com/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [
     {

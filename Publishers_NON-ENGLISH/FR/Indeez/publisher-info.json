@@ -2,11 +2,15 @@
   "name": "Indeez",
   "slug": "indeez",
   "country": "FR",
-  "description": "",
+  "description": "De la BD et du Hip-Hop...\nCultures Urbaines!\ncréation juillet 2008",
   "website": "",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png",
+    "logos": [
+      "[[FOLDER]]/logo.png",
+      "[[FOLDER]]/logo1.jpg"
+    ]
   },
   "links": [],
   "labels": [],

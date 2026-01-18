@@ -5,7 +5,8 @@
   "description": "Cambourakis est une maison d&#x27;édition francaise de bande dessinee , de littérature, de littérature jeunesse et de sciences humaines fondée par Frédéric Cambourakis en mars 2006 a Paris.",
   "website": "https://www.cambourakis.com/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [
     {

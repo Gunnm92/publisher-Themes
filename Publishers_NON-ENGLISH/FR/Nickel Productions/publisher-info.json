@@ -3,12 +3,17 @@
   "slug": "nickel-productions",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "http://Nickel &eacute;ditions",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://Nickel &eacute;ditions"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

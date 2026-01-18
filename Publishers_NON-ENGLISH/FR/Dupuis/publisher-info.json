@@ -3,12 +3,17 @@
   "slug": "dupuis",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "https://www.dupuis.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.dupuis.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

@@ -6,11 +6,7 @@
   "website": "https://www.bamboo.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg",
-    "logos": [
-      "[[FOLDER]]/logo.jpg",
-      "[[FOLDER]]/logo copy.jpg"
-    ]
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [
     {

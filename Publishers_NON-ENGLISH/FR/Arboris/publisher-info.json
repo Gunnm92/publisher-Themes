@@ -5,7 +5,8 @@
   "description": "",
   "website": "",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
   "links": [],
   "labels": [],

@@ -3,11 +3,17 @@
   "slug": "audie",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "https://www.fluideglacial.com/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.fluideglacial.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"
