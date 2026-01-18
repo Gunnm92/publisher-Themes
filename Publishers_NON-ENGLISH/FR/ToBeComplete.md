@@ -1,0 +1,197 @@
+# Editeurs manquants
+
+Total manquants: 193
+
+- 12bis
+- 6 Pieds Sous Terre
+- Actes Sud
+- Actes Sud - L'An 2
+- Active Images
+- Alayone Comics
+- Albin Michel
+- Alpen Publishers
+- Amok éditions
+- André Jobin
+- Ankama Éditions
+- Appro
+- Arboris
+- Artège Éditions
+- Audie
+- Auto-édition
+- Autrement
+- BD Must
+- BD Star
+- BDouin
+- Bac@Bd
+- Bamboo Édition
+- Bayard
+- Bibliotheca Virtualis
+- Bidouille
+- Blake et Mortimer
+- Bliss Comics
+- Boomerang
+- Bragelonne - Milady
+- Bédésup
+- Cambourakis
+- Capitol Éditions
+- Caravelle
+- Casterman
+- Cerises & Coquelicots
+- Clair de Lune
+- Claude Lefrancq Éditeur (CLE)
+- Comics USA
+- Contre-dires
+- Cornélius
+- DC Comics
+- Daniel Maghen
+- De La Martinière Jeunesse
+- Denoël
+- Des ronds dans l'O
+- Desinge - Hugo & Cie
+- Dominique et compagnie
+- Drugstore
+- Dynamite
+- Dédales Éditions
+- EP Media
+- Edition des Archers
+- Editions Déméter
+- Editions Marcel Daubin
+- Editions Tabary
+- Editions USA
+- Editions du Miroir
+- Ego comme X
+- Emmanuel Proust Éditions
+- Eyrolles
+- Filidalo
+- Flammarion
+- Fleurus
+- Floro
+- Fordis
+- France Loisirs
+- Galerie Dock Sud
+- Gallimard Jeunesse
+- Gautier-Languereau
+- Glénat / Fayard
+- Glénat / Éditions du Patrimoine
+- Grasset
+- Graton (Dupuis)
+- Groupe Modus
+- Grrr...Art Éditions
+- Hachette
+- Hors Collection
+- Horus
+- Huginn & Muninn
+- Hugo & Cie
+- I.P.M. - International Presse Magazine
+- Ici Même Éditions
+- JYB Aventures
+- Jean-André Buse
+- Joker Editions
+- Jungle !
+- Kana
+- Kantik
+- Kennes Éditions
+- Kesselring
+- Kontre Kulture
+- L'Association
+- LUG
+- La Cinquième Couche
+- La Pastèque
+- La boîte à bulles
+- La joie de lire
+- Larousse
+- Lavauzelle
+- Le Livre de Poche
+- Le Téméraire
+- Le potager moderne
+- Les Arènes
+- Les Enfants Rouges
+- Les Machines
+- Les Malins
+- Les Requins Marteaux
+- Les Rêveurs
+- Les Éditions Fei
+- Les éditions de la Gouttière
+- Lombard
+- Lounak
+- Lucky Comics
+- Lucky Productions
+- Lécureux/Centlys
+- Magic Strip
+- Makaka Editions
+- Marabout
+- Milan
+- Mosquito
+- Naïve
+- Nickel Productions
+- Noir Dessin Production
+- Norma Editorial
+- Novedi
+- Nucléa
+- Office des publications officielles des communauté
+- Oncle Lucien Editions
+- Organic Comix et Original Watts
+- Organix Comix et Original Watts
+- Oxymore Éditions
+- P&T Production
+- Pan pan
+- Pangolin Comics
+- Paquet
+- Parfum d'encre
+- Petit Homme
+- Philéas
+- Physalis
+- Pierre Papier Chicon
+- Pointe Noire
+- Presses aventure
+- Presses de la Cité
+- Pyramides & Aplanos
+- Quadrants
+- Rackham
+- Reprodukt
+- Rossel
+- Sangam / Le Castor astral
+- Sarbacane
+- Scilly Verlag
+- Scutella Editions
+- Septentrion
+- Seuil
+- Seven 7
+- Sixto Éditions
+- Soleil Productions
+- Steinkis
+- Super Loto Editions
+- Tabary
+- Tabou
+- Tapages Nocturnes
+- Taste y Cool
+- The Hoochie Coochie
+- Theloma
+- ToDo
+- Tonkam
+- Traditions de l'Inde
+- Urban China
+- Vertige Graphic
+- Warum
+- Yes Company
+- Zanpano
+- Zenda
+- Zenescope Entertainment
+- Zéphyr Éditions
+- bang ediciones
+- multi-bd-bruxelles
+- petit à petit
+- Édition pirate
+- Éditions Bravo !
+- Éditions Bréal
+- Éditions Carabas
+- Éditions FLBLB
+- Éditions Glénat
+- Éditions Matière
+- Éditions P'tit Louis
+- Éditions Régine Deforges
+- Éditions de la Séguinière
+- Éditions du Square
+- Éditions du Taupinambour
+- çà et là - Arte Éditions
+- éditions Mondiale
