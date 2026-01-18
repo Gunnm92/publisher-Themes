@@ -1,0 +1,20 @@
+{
+  "name": "Presses de la Cité",
+  "slug": "presses-de-la-cit",
+  "country": "FR",
+  "description": "Un patrimoine exceptionnel et un ancrage fort dans la littérature étrangère, une proposition riche autour de la littérature grand public, plaisir et exigeante, la passion de ses équipes, la découverte et la publication d’auteurs singuliers…",
+  "website": "https://www.lisez.com/editeurs/presses-de-la-cite",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lisez.com/editeurs/presses-de-la-cite"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

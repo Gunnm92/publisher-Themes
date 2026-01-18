@@ -1,0 +1,14 @@
+{
+  "name": "Éditions du Square",
+  "slug": "ditions-du-square",
+  "country": "FR",
+  "description": "Fin 1982, à la suite de la disparition de la première version de Charlie Hebdo, les Éditions Albin Michel rachètent les droits d&#x27;édition et créent la collection « Le Square - Albin Michel ».",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

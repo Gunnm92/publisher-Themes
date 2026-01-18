@@ -1,0 +1,20 @@
+{
+  "name": "Éditions P'tit Louis",
+  "slug": "ditions-ptit-louis",
+  "country": "FR",
+  "description": "Avec une première publication en 1990, les Editions P&#x27;tit Louis sont l&#x27;une des très rares sociétés d&#x27;édition en Bretagne dont la ligne éditoriale est principalement orientée BD. Ses parutions destinées à tout public offrent aujourd&#x27;hui plusieurs collections (livres jeunesse, BD, romans, beaux livres...).",
+  "website": "https://www.editionsptitlouis.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionsptitlouis.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

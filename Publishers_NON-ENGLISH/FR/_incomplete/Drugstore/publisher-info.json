@@ -1,0 +1,20 @@
+{
+  "name": "Drugstore",
+  "slug": "drugstore",
+  "country": "FR",
+  "description": "Les éditions Vent des savanes qui reprenaient le catalogue BD d’Albin Michel changent de nom dès septembre 2008 pour se transformer en éditions Drugstore.",
+  "website": "https://www.glenat.com/glenat-bd/collections-drugstore/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.glenat.com/glenat-bd/collections-drugstore/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Repris par : Collection chez Glénat",
+  "last_updated": "2026-01-18"
+}

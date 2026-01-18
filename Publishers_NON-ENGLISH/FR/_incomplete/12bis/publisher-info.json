@@ -1,0 +1,20 @@
+{
+  "name": "12bis",
+  "slug": "12bis",
+  "country": "FR",
+  "description": "Détails Wikipédia : 12 bis 12 bis De : 2008 à : 2013 75008 Paris, France Repris par : Glénat 12 bis est une maison d'édition française présente dans le domaine de la bande dessinée et du manga. La société est installée à Paris, au 12 bis avenue des Gobelins. 12 bis a été créée en 2008 par Dominique Burdot, ancien directeur général des éditions Glénat, et Laurent Muller, ancien directeur éditorial,... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; e.innerHTML = \"12 bis est une maison d&#039;&eacute;dition fran&ccedil;aise pr&eacute;sente dans le domaine de la bande dessin&eacute;e et du manga. La soci&eacute;t&eacute; est install&eacute;e &agrave; Paris, au 12 bis avenue des Gobelins.<br /><br />12 bis a &eacute;t&eacute; cr&eacute;&eacute;e en 2008 par Dominique Burdot, ancien directeur g&eacute;n&eacute;ral des &eacute;ditions Gl&eacute;nat, et Laurent Muller, ancien directeur &eacute;ditorial,...\"; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; e.innerHTML = \"12 bis est une maison d&#039;&eacute;dition fran&ccedil;aise pr&eacute;sente dans le domaine de la bande dessin&eacute;e et du manga. La soci&eacute;t&eacute; est install&eacute;e &agrave; Paris, au 12 bis avenue des Gobelins.<br /><br />12 bis a &eacute;t&eacute; cr&eacute;&eacute;e en 2008 par Dominique Burdot, ancien directeur g&eacute;n&eacute;ral des &eacute;ditions Gl&eacute;nat, et Laurent Muller, ancien directeur &eacute;ditorial, &eacute;galement chez Gl&eacute;nat. Leur projet &eacute;ditorial est l&#039;&eacute;dition de bande dessin&eacute;e franco-belge et de manga, mais aussi de publications plus engag&eacute;es en collaboration avec Charlie Hebdo. Avec un clin d&#039;&oelig;il &agrave; Spirou : dans leurs albums, la treizi&egrave;me page est num&eacute;rot&eacute;e 12 bis.<br /><br />Le site http://12bis.com est cr&eacute;&eacute; en d&eacute;cembre 2009.<br /><br />Les difficult&eacute;s connues par la maison d&#039;&eacute;dition ont provoqu&eacute; l&#039;ouverture d&#039;une proc&eacute;dure de redressement judiciaire en date du 30 avril 2013. Le jeudi 6 septembre 2013 on apprend que l&#039;&eacute;diteur Gl&eacute;nat reprend les actifs des &eacute;ditions 12 bis. L&#039;ensemble du catalogue, &agrave; l&#039;exception toutefois des droits sur les ouvrages de Fran&ccedil;ois Bourgeon r&eacute;cup&eacute;r&eacute;s par ce dernier, tombe donc dans l&#039;escarcelle de l&#039;&eacute;diteur grenoblois.\"; } } //-->",
+  "website": "https://www.glenat.com/bd/collections/12bis",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.glenat.com/bd/collections/12bis"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

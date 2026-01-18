@@ -1,0 +1,20 @@
+{
+  "name": "Les Arènes",
+  "slug": "les-ar-nes",
+  "country": "FR",
+  "description": "",
+  "website": "https://arenes.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://arenes.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

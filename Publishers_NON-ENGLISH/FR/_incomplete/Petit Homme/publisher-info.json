@@ -1,0 +1,20 @@
+{
+  "name": "Petit Homme",
+  "slug": "petit-homme",
+  "country": "FR",
+  "description": "",
+  "website": "https://editionspetithomme.groupelivre.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editionspetithomme.groupelivre.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

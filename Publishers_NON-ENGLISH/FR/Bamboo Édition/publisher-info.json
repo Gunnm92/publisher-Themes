@@ -1,0 +1,20 @@
+{
+  "name": "Bamboo Édition",
+  "slug": "bamboo-dition",
+  "country": "FR",
+  "description": "Créé en 1997 par Olivier Sulpice, Bamboo Édition compte plus de 300 titres à son catalogue. Spécialiste de l’humour grand public avec des séries à succès telles que Les Profs, Les Gendarmes, Les Pompiers, Les Rugbymen et récemment Les Sisters, Bamboo Édition développe également une collection réaliste, Grand Angle, et manga sous le label Doki-Doki.",
+  "website": "https://www.bamboo.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.bamboo.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

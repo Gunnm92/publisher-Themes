@@ -1,0 +1,20 @@
+{
+  "name": "Philéas",
+  "slug": "phil-as",
+  "country": "FR",
+  "description": "Phileas est une nouvelle maison dédiée à la publication de bandes dessinées et romans graphiques de genre, née de l&#x27;association entre Jungle et Edi8.",
+  "website": "https://www.lisez.com/editeurs/phileas",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lisez.com/editeurs/phileas"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

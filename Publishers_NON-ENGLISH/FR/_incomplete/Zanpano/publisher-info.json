@@ -1,0 +1,20 @@
+{
+  "name": "Zanpano",
+  "slug": "zanpano",
+  "country": "FR",
+  "description": "Détails Site Internet : Zanpano.com Zanpano édition 75018 Paris, France",
+  "website": "http://www.zanpano.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.zanpano.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Zanpano.com",
+  "last_updated": "2026-01-18"
+}

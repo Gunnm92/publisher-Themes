@@ -1,0 +1,20 @@
+{
+  "name": "La joie de lire",
+  "slug": "la-joie-de-lire",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.lajoiedelire.ch/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lajoiedelire.ch/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

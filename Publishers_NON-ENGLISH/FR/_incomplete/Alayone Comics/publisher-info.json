@@ -1,0 +1,15 @@
+{
+  "name": "Alayone Comics",
+  "slug": "alayone-comics",
+  "country": "FR",
+  "description": "Alayone Comics est un micro-éditeur indépendant de comics créé par les fondateurs de Comics Place, Original Comics et Glénat Comics",
+  "website": "https://www.facebook.com/p/Original-Comics-100057195741830/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

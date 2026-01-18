@@ -1,0 +1,19 @@
+{
+  "name": "Amok éditions",
+  "slug": "amok-ditions",
+  "country": "FR",
+  "description": "",
+  "website": "https://editionsamok.wixsite.com/amok",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editionsamok.wixsite.com/amok"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

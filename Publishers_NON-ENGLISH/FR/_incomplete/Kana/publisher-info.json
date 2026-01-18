@@ -1,0 +1,20 @@
+{
+  "name": "Kana",
+  "slug": "kana",
+  "country": "FR",
+  "description": "début en 2012. Kana est une maison d&#x27;édition spécialisée dans le manga. Nous publions notamment Bakuman, Black Butler, Death Note, Gintama, Naruto et bien d&#x27;autres !",
+  "website": "https://www.kana.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.kana.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Wikipédia : Kana (maison d'édition) Editions Kana / Dargaud-Lombard",
+  "last_updated": "2026-01-18"
+}

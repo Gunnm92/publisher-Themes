@@ -1,0 +1,15 @@
+{
+  "name": "Physalis",
+  "slug": "physalis",
+  "country": "FR",
+  "description": "Détails Old Site : http://www.editions-physalis.com/ Éditions Physalis De : 2012 à : 2015 76230 Bois Guillaume, France",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "BD-Tek: Old Site : http://www.editions-physalis.com/",
+  "last_updated": "2026-01-18"
+}

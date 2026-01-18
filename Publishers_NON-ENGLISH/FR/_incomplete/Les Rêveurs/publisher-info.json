@@ -1,0 +1,20 @@
+{
+  "name": "Les Rêveurs",
+  "slug": "les-r-veurs",
+  "country": "FR",
+  "description": "Les Rêveurs est un tout petit éditeur qui participe avec les auteurs à l’édition de bandes dessinées et de livres illustrés. Cette histoire a débuté en 1997 et elle continue encore…",
+  "website": "https://www.editionslesreveurs.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionslesreveurs.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

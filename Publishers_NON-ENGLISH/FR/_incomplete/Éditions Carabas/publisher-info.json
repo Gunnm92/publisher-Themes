@@ -1,0 +1,15 @@
+{
+  "name": "Éditions Carabas",
+  "slug": "ditions-carabas",
+  "country": "FR",
+  "description": "Carabas est un éditeur français de bande dessinée faisant partie du groupe Tournon qui comprend également Semic et Kami.",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Filidalo",
+  "slug": "filidalo",
+  "country": "FR",
+  "description": "Filidalo, Éditeur de toutes façons",
+  "website": "http://www.editionsfilidalo.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.editionsfilidalo.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

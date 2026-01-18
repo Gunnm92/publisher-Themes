@@ -1,0 +1,20 @@
+{
+  "name": "Makaka Editions",
+  "slug": "makaka-editions",
+  "country": "FR",
+  "description": "",
+  "website": "https://makaka-editions.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://makaka-editions.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

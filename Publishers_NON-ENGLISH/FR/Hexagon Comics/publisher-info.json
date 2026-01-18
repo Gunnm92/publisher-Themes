@@ -1,0 +1,15 @@
+{
+  "name": "Hexagon Comics",
+  "slug": "hexagon-comics",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.hexagoncomics.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

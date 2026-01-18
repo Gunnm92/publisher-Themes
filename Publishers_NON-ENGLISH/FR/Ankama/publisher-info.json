@@ -1,0 +1,25 @@
+{
+  "name": "Ankama",
+  "slug": "ankama",
+  "country": "FR",
+  "description": "Détails Ankama Éditions Depuis :  2006 59100 Roubaix, France",
+  "website": "http://Ankama Editions",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg",
+    "logos": [
+      "[[FOLDER]]/logo.jpg",
+      "[[FOLDER]]/logo2.jpg",
+      "[[FOLDER]]/logo3.jpg"
+    ]
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://Ankama Editions"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

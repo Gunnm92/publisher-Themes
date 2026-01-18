@@ -1,0 +1,20 @@
+{
+  "name": "Dédales Éditions",
+  "slug": "d-dales-ditions",
+  "country": "FR",
+  "description": "Dédales est une association charentaise d’artistes et d’auteurs de bande dessinée issus des écoles de l’image d’Angoulême, dont le but est de promouvoir leurs oeuvres au travers de deux plates-formes de diffusion: un site internet, alimenté régulièrement en bandes dessinées et en créations graphiques, et une revue annuelle présentant des travaux réalisés autour d’un même thème.",
+  "website": "http://dedaleseditions.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://dedaleseditions.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

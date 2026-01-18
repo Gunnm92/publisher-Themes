@@ -1,0 +1,15 @@
+{
+  "name": "Warum",
+  "slug": "warum",
+  "country": "FR",
+  "description": "Détails Warum Depuis :  2004 75008 Paris, France Fondée en 2004 par deux auteurs issus des arts décoratifs de Paris, Benoît Preteseille et Wandrille Leroy, WARUM est une maison d'édition de bande dessinée atypique qui a volontairement choisi de s'éloigner des codes du genre pour promouvoir avec humour une bande dessinée expérimentale et novatrice,... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; e.innerHTML = \"Fond&eacute;e en 2004 par deux auteurs issus des arts d&eacute;coratifs de Paris, Beno&icirc;t Preteseille et Wandrille Leroy, WARUM est une maison d&#039;&eacute;dition de bande dessin&eacute;e atypique qui a volontairement choisi de s&#039;&eacute;loigner des codes du genre pour promouvoir avec humour une bande dessin&eacute;e exp&eacute;rimentale et novatrice,...\"; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; e.innerHTML = \"Fond&eacute;e en 2004 par deux auteurs issus des arts d&eacute;coratifs de Paris, Beno&icirc;t Preteseille et Wandrille Leroy, WARUM est une maison d&#039;&eacute;dition de bande dessin&eacute;e atypique qui a volontairement choisi de s&#039;&eacute;loigner des codes du genre pour promouvoir avec humour une bande dessin&eacute;e exp&eacute;rimentale et novatrice, dans deux collections, Civilisation (phalange artistique) et D&eacute;cadence<br />(autod&eacute;rision et histoires absurdes).\"; } } //-->",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

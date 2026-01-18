@@ -1,0 +1,20 @@
+{
+  "name": "JYB Aventures",
+  "slug": "jyb-aventures",
+  "country": "FR",
+  "description": "Détails JYB-Aventures De : 2001 à : 2024 35000 Rennes, France Repris par : Éditions Nuage Bandes dessinées scénarisées et éditées par Jean-Yves Brouard",
+  "website": "https://www.editionsnuage.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionsnuage.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Repris par : Éditions Nuage Bandes dessinées scénarisées et éditées par Jean-Yves Brouard",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Boomerang",
+  "slug": "boomerang",
+  "country": "FR",
+  "description": "Détails Site Internet : Boomerang Jeunesse Boomerang Éditeur jeunesse Depuis :  2002",
+  "website": "https://boomerangjeunesse.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://boomerangjeunesse.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Boomerang Jeunesse Boomerang Éditeur jeunesse",
+  "last_updated": "2026-01-18"
+}

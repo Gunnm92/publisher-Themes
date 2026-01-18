@@ -1,0 +1,15 @@
+{
+  "name": "Joker Editions",
+  "slug": "joker-editions",
+  "country": "FR",
+  "description": "Les Éditions Joker est la marque de la maison d'édition spécialisée dans la bande dessinée P&T Productions sprl.\n\nSon succès repose sur des séries coquines. Avant de développer ses propres productions, P&T a commencé son activité en rééditant des séries abandonnées par les Éditions du Lombard : Olivier Rameau, Michael Logan, Gord ou Arlequin.\n\nGrâce au hasard d'une rencontre, les collections développées durant 35 ans par Thierry Taburiaux (Joker, HZ) rejoignent la famille Kennes. Chaque titre y est intégré respectueusement courant 2018 et 2019. Les œuvres sont divisées en deux groupes :\n\n- Les séries ouvertes à tous les publics comme, par exemple, Napoléon, Les Foot furieux et Olivier Rameau. Elles seront dorénavant marquées du sceau Kennes.\n\n- Les œuvres avec une touche plus « osée », pour un public averti (Les Blagues coquines de Dany, les Petites Femmes...). Elles resteront sous l'estampillage Joker. Une collection qui propose du sexy sans se prendre au sérieux.",
+  "website": "https://www.bd-tek.com/Editeur-111-joker-editions.html",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

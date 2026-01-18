@@ -1,0 +1,15 @@
+{
+  "name": "Magic Strip",
+  "slug": "magic-strip",
+  "country": "FR",
+  "description": "Magic~Strip est une maison d&#x27;édition de bande dessinée belge, fondée en novembre 1979 à Bruxelles, par les frères Daniel et Didier Pasamonik. La faillite du distributeur Maître du Monde mit en difficulté en 1987 de nombreux petits éditeurs, dont Magic~Strip qui, reprise par les éditions Loempia et ayant fondé sa propre diffusion en France, s&#x27;arrêtera avec la liquidation de sa maison-mère.",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

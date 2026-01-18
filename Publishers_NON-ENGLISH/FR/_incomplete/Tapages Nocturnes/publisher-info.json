@@ -1,0 +1,15 @@
+{
+  "name": "Tapages Nocturnes",
+  "slug": "tapages-nocturnes",
+  "country": "FR",
+  "description": "Détails Tapages Nocturnes De : 2015 à : 2022",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

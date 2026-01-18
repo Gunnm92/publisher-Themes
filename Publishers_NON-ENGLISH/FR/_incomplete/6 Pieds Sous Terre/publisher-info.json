@@ -1,0 +1,24 @@
+{
+  "name": "6 Pieds Sous Terre",
+  "slug": "6-pieds-sous-terre",
+  "country": "FR",
+  "description": "Fondation en 1991. Les éditions 6 Pieds sous terre - Bandes dessinées de goût.",
+  "website": "https://www.pastis.org/jade/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://6pieds-sous-terre.com/"
+    },
+    {
+      "label": "Site officiel",
+      "url": "http://6pieds-sous-terre.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Les éditions 6 pieds sous terre",
+  "last_updated": "2026-01-18"
+}

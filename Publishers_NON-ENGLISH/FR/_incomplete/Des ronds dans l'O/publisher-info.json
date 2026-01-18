@@ -1,0 +1,20 @@
+{
+  "name": "Des ronds dans l'O",
+  "slug": "des-ronds-dans-lo",
+  "country": "FR",
+  "description": "Chouette maison d&#x27;édition indépendante privilégiant la liberté d&#x27;expression à commencer par celle qu&#x27;offre la bande dessinée...mais pas que !",
+  "website": "http://www.desrondsdanslo.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.desrondsdanslo.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

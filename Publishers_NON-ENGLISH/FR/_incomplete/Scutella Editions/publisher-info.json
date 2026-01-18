@@ -1,0 +1,20 @@
+{
+  "name": "Scutella Editions",
+  "slug": "scutella-editions",
+  "country": "FR",
+  "description": "",
+  "website": "https://scutella.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://scutella.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

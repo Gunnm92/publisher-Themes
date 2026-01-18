@@ -1,0 +1,20 @@
+{
+  "name": "Flammarion",
+  "slug": "flammarion",
+  "country": "FR",
+  "description": "Détails Site Internet : Flammarion Jeunesse Éditions Flammarion SA Depuis :  1875 75647 Paris Cedex 13, France",
+  "website": "https://editions.flammarion.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://editions.flammarion.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Flammarion Jeunesse Éditions Flammarion SA",
+  "last_updated": "2026-01-18"
+}

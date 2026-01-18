@@ -1,0 +1,20 @@
+{
+  "name": "Ici Même Éditions",
+  "slug": "ici-m-me-ditions",
+  "country": "FR",
+  "description": "",
+  "website": "https://www.icimeme-editions.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.icimeme-editions.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}
