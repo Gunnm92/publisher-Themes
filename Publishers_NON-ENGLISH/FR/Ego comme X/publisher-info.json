@@ -1,0 +1,15 @@
+{
+  "name": "Ego comme X",
+  "slug": "ego-comme-x",
+  "country": "FR",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}
