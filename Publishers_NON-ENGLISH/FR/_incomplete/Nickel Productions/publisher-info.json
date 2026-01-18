@@ -1,0 +1,20 @@
+{
+  "name": "Nickel Productions",
+  "slug": "nickel-productions",
+  "country": "FR",
+  "description": "Détails Nickel Productions De : 1999 à : 2017 91170 Viry-Châtillon, France Sous l'impulsion de Jacques Collin, qui avait auparavant cofondé les éditions Zenda, les éditions Nickel sont créées en 1999, pour éditer entre autre la série Requiem Chevalier Vampire d'Olivier Ledroit et Pat Mills. Mais Nickel Productions, qui a aussi publié un spin-off de Requiem intitulé Claudia... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; e.innerHTML = \"Sous l&#039;impulsion de Jacques Collin, qui avait auparavant cofond&eacute; les &eacute;ditions Zenda, les &eacute;ditions Nickel sont cr&eacute;&eacute;es en 1999, pour &eacute;diter entre autre la s&eacute;rie Requiem Chevalier Vampire d&#039;Olivier Ledroit et Pat Mills.<br /><br />Mais Nickel Productions, qui a aussi publi&eacute; un spin-off de Requiem intitul&eacute; Claudia...\"; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "website": "http://Nickel &eacute;ditions",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://Nickel &eacute;ditions"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

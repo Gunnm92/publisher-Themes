@@ -1,0 +1,20 @@
+{
+  "name": "Steinkis",
+  "slug": "steinkis",
+  "country": "FR",
+  "description": "Détails Site Internet : Steinkis.com Steinkis Editions Depuis :  2011 75008 Paris, France",
+  "website": "https://www.steinkis-groupe.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.steinkis-groupe.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Steinkis.com",
+  "last_updated": "2026-01-18"
+}

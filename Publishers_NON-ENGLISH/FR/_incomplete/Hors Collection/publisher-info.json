@@ -1,0 +1,20 @@
+{
+  "name": "Hors Collection",
+  "slug": "hors-collection",
+  "country": "FR",
+  "description": "Détails Éditions Hors Collection Depuis :  1991 75627 Paris, cedex 13, France",
+  "website": "https://www.lisez.com/editeurs/hors-collection",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lisez.com/editeurs/hors-collection"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Éditions Hors Collection",
+  "last_updated": "2026-01-18"
+}

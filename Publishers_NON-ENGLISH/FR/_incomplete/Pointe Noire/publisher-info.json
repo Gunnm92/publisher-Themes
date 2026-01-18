@@ -1,0 +1,15 @@
+{
+  "name": "Pointe Noire",
+  "slug": "pointe-noire",
+  "country": "FR",
+  "description": "Détails Wikipédia : Pointe Noire Pointe Noire De : 1999 à : 2002 75015 Paris, France <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

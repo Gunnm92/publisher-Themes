@@ -2,7 +2,7 @@
   "name": "Delcourt",
   "slug": "delcourt",
   "country": "FR",
-  "description": "",
+  "description": "Détails Éditions Delcourt Depuis :  1986 75010 Paris, France Guy Delcourt a alors 28 ans. Après des études de gestion à l'Essec et un passage par le journalisme qui le conduit à diriger... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
   "website": "https://www.editions-delcourt.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

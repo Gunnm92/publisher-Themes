@@ -1,0 +1,20 @@
+{
+  "name": "Milan",
+  "slug": "milan",
+  "country": "FR",
+  "description": "Détails",
+  "website": "https://www.editionsmilan.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionsmilan.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

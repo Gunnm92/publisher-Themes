@@ -1,0 +1,20 @@
+{
+  "name": "Fordis",
+  "slug": "fordis",
+  "country": "FR",
+  "description": "Détails Site Internet : Fordis Books and Pictures Fordis Books and Pictures Depuis :  2015 60300 Senlis, France Fordis Books and Pictures est, à la génèse, une agence de communication globale. Productrice d'idées et de contenus, elle a œuvré et œuvre toujours dans de nombreux domaines de la communication. <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "website": "https://www.fordisbooksandpictures.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.fordisbooksandpictures.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

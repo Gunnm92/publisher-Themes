@@ -1,0 +1,15 @@
+{
+  "name": "Lounak",
+  "slug": "lounak",
+  "country": "FR",
+  "description": "Détails Site Internet : Lounak.com Studio Lounak Depuis :  2010 Montréal, Canada <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

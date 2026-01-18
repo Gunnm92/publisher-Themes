@@ -2,7 +2,7 @@
   "name": "Akata",
   "slug": "akata",
   "country": "FR",
-  "description": "",
+  "description": "Détails Akata Éditions Depuis :  2013 87290 Rancon, France En 2001, après avoir quitté Tonkam, Dominique Véret et son épouse Sylvie Véret Chang fondent, avec Erwan Le Verger et Sahé Cibot (qui quitteront quelques années après l'entreprise), la société Akata. De 2001 à 2013, rejoints par Bruno Pham et Erwan Charlès, Akata est devenu un label affilié aux Editions... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; e.innerHTML = \"En 2001, apr&egrave;s avoir quitt&eacute; Tonkam, Dominique V&eacute;ret et son &eacute;pouse Sylvie V&eacute;ret Chang fondent, avec Erwan Le Verger et Sah&eacute; Cibot (qui quitteront quelques ann&eacute;es apr&egrave;s l&#039;entreprise), la soci&eacute;t&eacute; Akata. De 2001 &agrave; 2013, rejoints par Bruno Pham et Erwan Charl&egrave;s, Akata est devenu un label affili&eacute; aux Editions...\"; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
   "website": "https://www.akata.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

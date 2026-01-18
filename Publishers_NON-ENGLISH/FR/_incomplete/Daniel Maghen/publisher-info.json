@@ -1,0 +1,20 @@
+{
+  "name": "Daniel Maghen",
+  "slug": "daniel-maghen",
+  "country": "FR",
+  "description": "Détails Site Internet : Daniel Maghen Galerie & Editions Daniel Maghen Depuis :  2005 75006 Paris, France Aujourd'hui la galerie... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "website": "https://www.danielmaghen.com/fr/index.htm",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.danielmaghen.com/fr/index.htm"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

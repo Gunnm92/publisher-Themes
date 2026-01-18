@@ -1,0 +1,20 @@
+{
+  "name": "Clair de Lune",
+  "slug": "clair-de-lune",
+  "country": "FR",
+  "description": "Détails Site Internet : Clair de lune Éditions Clair de Lune Depuis :  1999 13013 Marseille, France",
+  "website": "https://www.editionsclairdelune.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionsclairdelune.fr/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Clair de lune",
+  "last_updated": "2026-01-18"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Marabout",
+  "slug": "marabout",
+  "country": "FR",
+  "description": "Détails Site Internet : Marabout Marabout Depuis :  1949 92170 Vanves, France",
+  "website": "https://www.marabout.com/livres-biopic-et-roman-graphique/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.marabout.com/livres-biopic-et-roman-graphique/"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Site Internet : Marabout",
+  "last_updated": "2026-01-18"
+}

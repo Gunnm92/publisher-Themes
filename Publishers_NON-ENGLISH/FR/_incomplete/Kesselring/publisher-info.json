@@ -1,0 +1,15 @@
+{
+  "name": "Kesselring",
+  "slug": "kesselring",
+  "country": "FR",
+  "description": "Détails Kesselring Editeur De : 1974 à : 1990 1003 Lausannne, Suisse",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}

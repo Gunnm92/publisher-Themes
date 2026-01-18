@@ -1,0 +1,24 @@
+{
+  "name": "Actes Sud",
+  "slug": "actes-sud",
+  "country": "FR",
+  "description": "Détails Wikipédia : fr.wikipedia.org/wiki/Actes_Sud Actes Sud Depuis :  1978 13633 Arles, France",
+  "website": "https://www.actes-sud.fr/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.actes-sud.fr/"
+    },
+    {
+      "label": "Site officiel",
+      "url": "http://www.actes-sud.fr"
+    }
+  ],
+  "labels": [],
+  "notes": "BD-Tek: Wikipédia : fr.wikipedia.org/wiki/Actes_Sud",
+  "last_updated": "2026-01-18"
+}

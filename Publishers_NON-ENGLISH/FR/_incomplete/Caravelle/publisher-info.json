@@ -1,0 +1,15 @@
+{
+  "name": "Caravelle",
+  "slug": "caravelle",
+  "country": "FR",
+  "description": "Détails Editions Glénat - Caravelle De : 2004 à : 2007 B-1200 Bruxelles, Belgique Repris par : Glénat Collection Caravelle Urbaine Glénat Benelux",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "Edition Glénat\nBD-Tek: Editions Glénat - Caravelle Repris par : Glénat Collection Caravelle Urbaine",
+  "last_updated": "2026-01-18"
+}

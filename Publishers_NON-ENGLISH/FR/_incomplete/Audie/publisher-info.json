@@ -1,0 +1,20 @@
+{
+  "name": "Audie",
+  "slug": "audie",
+  "country": "FR",
+  "description": "Détails Éditions Audie Depuis :  1975 75013 Paris, France",
+  "website": "https://www.fluideglacial.com/",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.fluideglacial.com/"
+    }
+  ],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-18"
+}
