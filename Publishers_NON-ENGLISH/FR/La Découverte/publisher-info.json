@@ -2,13 +2,18 @@
   "name": "La Découverte",
   "slug": "la-d-couverte",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Les Editions Découverte, créées en 1983, sont présentes principalement dans le domaine des sciences humaines et sociales, des essais sur les problèmes de société et des ouvrages accessibles sur l'économie et les questions internationales. La maison, historiquement engagée, publie environ 120 nouveautés par an.",
+  "website": "https://www.editionsladecouverte.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.editionsladecouverte.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

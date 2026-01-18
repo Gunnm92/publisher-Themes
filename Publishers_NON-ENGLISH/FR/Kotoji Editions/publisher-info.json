@@ -3,12 +3,17 @@
   "slug": "kotoji-editions",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "https://www.kotoji-editions.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.kotoji-editions.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

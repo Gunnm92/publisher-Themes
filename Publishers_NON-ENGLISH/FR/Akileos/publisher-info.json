@@ -3,12 +3,17 @@
   "slug": "akileos",
   "country": "FR",
   "description": "",
-  "website": "https://www.akileos.com/",
+  "website": "http://www.akileos.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.akileos.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

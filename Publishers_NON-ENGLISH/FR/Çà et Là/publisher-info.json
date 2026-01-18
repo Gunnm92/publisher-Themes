@@ -2,13 +2,18 @@
   "name": "Çà et Là",
   "slug": "et-l",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Créées en 2005, les Éditions çà et là sont spécialisées dans l’édition en langue française de bandes dessinées d’auteurs étrangers. Les Éditions çà et là sont membres du SEA (Syndicat des Éditeurs Alternatifs), www.lesea.fr",
+  "website": "https://www.caetla.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.caetla.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

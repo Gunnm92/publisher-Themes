@@ -3,12 +3,17 @@
   "slug": "rue-de-s-vres",
   "country": "FR",
   "description": "",
-  "website": "",
+  "website": "http://www.editions-ruedesevres.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://www.editions-ruedesevres.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

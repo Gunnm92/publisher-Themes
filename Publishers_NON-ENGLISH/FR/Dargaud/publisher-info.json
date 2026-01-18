@@ -2,7 +2,7 @@
   "name": "Dargaud",
   "slug": "dargaud",
   "country": "FR",
-  "description": "https://www.dargaud.com/",
+  "description": "Dargaud est une maison d'édition spécialisée dans la bande dessinée, fondée par Georges Dargaud en 1936.",
   "website": "https://www.dargaud.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

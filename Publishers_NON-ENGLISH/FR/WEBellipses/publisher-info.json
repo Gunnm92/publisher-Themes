@@ -2,13 +2,18 @@
   "name": "WEBellipses",
   "slug": "webellipses",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "En narratologie, une « ellipse temporelle », également appelée « ellipse narrative », consiste à passer sous silence une période de temps, c’est-à-dire à n. Des bande dessinées numériques proche des comics américains.",
+  "website": "https://epidermiq.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://epidermiq.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

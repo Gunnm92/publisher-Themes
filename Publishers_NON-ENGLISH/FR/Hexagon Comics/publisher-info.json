@@ -8,7 +8,12 @@
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.hexagoncomics.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

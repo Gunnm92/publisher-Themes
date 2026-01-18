@@ -2,13 +2,18 @@
   "name": "Les Humanoïdes Associés",
   "slug": "les-humano-des-associ-s",
   "country": "FR",
-  "description": "",
+  "description": "Maison d'édition de bandes dessinées fondée en décembre 1974 par Mœbius, Jean-Pierre Dionnet et Philippe Druillet. D'abord créée dans le but de publier le mensuel Métal hurlant, elle est initialement spécialisée dans la science-fiction, avant de se diversifier par la suite dans tous les genres de la bande dessinée.",
   "website": "https://www.humano.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.humano.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

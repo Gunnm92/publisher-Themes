@@ -2,13 +2,18 @@
   "name": "Le Lombard",
   "slug": "le-lombard",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Éditeur historique du Journal de Tintin, Le Lombard aime vous faire partager son amour de la BD !",
+  "website": "https://www.lelombard.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.lelombard.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

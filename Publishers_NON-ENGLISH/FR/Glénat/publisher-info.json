@@ -2,8 +2,8 @@
   "name": "Glénat",
   "slug": "gl-nat",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Créée en 1969 par Jacques Glénat, Glénat est une maison d'édition française spécialisée dans les domaines de la BD, du manga, du Comics et des beaux livres (mer, montagne, gastronomie, patrimoine et jeunesse).",
+  "website": "https://www.glenat.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg",
@@ -12,7 +12,12 @@
       "[[FOLDER]]/logo2.jpg"
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "https://www.glenat.com/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"
