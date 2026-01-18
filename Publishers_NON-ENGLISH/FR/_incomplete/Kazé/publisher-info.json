@@ -2,13 +2,18 @@
   "name": "Kazé",
   "slug": "kaz",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Kazé est un éditeur pionnier de l'animation japonaise présent depuis 1994 en France et depuis 2010 en Allemagne. Le groupe Kazé partage avec ses clients, sa vision de la culture populaire japonaise à travers ses offres destinées aux fans mais aussi à un large public curieux de découvrir le meilleur des divertissements venus du Japon et même de la Corée à travers l'édition de DVD, Blu-ray, CD, Produits Dérivés, d'une Offre VOD, du Manga en ligne, et d'une Chaîne de télé... En 2010, Kazé intègre le groupe Viz Média Europe et s'associe avec les plus grands éditeurs japonais pour vous faire découvrir encore plus d'animés et de mangas",
+  "website": "http://kaze.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
-  "links": [],
+  "links": [
+    {
+      "label": "Site officiel",
+      "url": "http://kaze.fr/"
+    }
+  ],
   "labels": [],
   "notes": "",
   "last_updated": "2026-01-18"

@@ -5,7 +5,8 @@
   "description": "Créées au début de l’année 2003, les Éditions Matière agissent dans les champs de la bande dessinée, des arts plastiques et de la théorie à travers quatre collections. La collection « Imagème » publie des travaux de bande dessinée, ou en rapport étroit avec la bande dessinée. La collection « Séquences » s’attache à explorer les relations nouées entre la bande dessinée et les productions séquentielles qui s’en approchent ou tentent, aussi bien, de s’en éloigner. La collection « Matériaux » propose à chaque livraison une bande (de papier) dessinée. La collection « Un se divise en Deux » publie ensemble des dessins et de la théorie, en des livres à tous égards tranchés.",
   "website": "https://www.matiere.org/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

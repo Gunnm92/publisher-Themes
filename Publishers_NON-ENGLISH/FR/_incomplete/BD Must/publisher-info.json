@@ -2,11 +2,11 @@
   "name": "BD Must",
   "slug": "bd-must",
   "country": "FR",
-  "description": "BD Must c&#x27;est plus de 15 d&#x27;expérience en tant qu&#x27;Artisan Editeur, plus de 100 Tirages de Tête et 80 autres beaux albums du patrimoine BD !",
+  "description": "BD Must c'est plus de 15 d'expérience en tant qu'Artisan Editeur, plus de 100 Tirages de Tête et 80 autres beaux albums du patrimoine BD !",
   "website": "https://bdmust.be/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

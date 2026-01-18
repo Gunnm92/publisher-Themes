@@ -2,11 +2,11 @@
   "name": "Zenda",
   "slug": "zenda",
   "country": "FR",
-  "description": "Zenda est une maison d&#x27;édition française spécialisée dans la bande dessinée. Elle a été en activité de 1987 à 1994, avant d’être rachetée par Glénat.",
+  "description": "Zenda est une maison d'édition française spécialisée dans la bande dessinée. Elle a été en activité de 1987 à 1994, avant d’être rachetée par Glénat.",
   "website": "",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],

@@ -5,7 +5,8 @@
   "description": "Entre tradition et modernité, la ligne éditoriale d’Urban China a pour vocation de faire découvrir au public occidental de nouveaux auteurs talentueux, le manhua et la culture chinoise.",
   "website": "",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],

@@ -2,11 +2,11 @@
   "name": "bang ediciones",
   "slug": "bang-ediciones",
   "country": "FR",
-  "description": "Bang ediciones est une maison d&#x27;édition de bandes dessinées basée à Barcelone et qui publie en France et en Espagne. Créée en 2004, elle a lancé en 2008 une collection jeunesse appelée Mamut comics.",
+  "description": "Bang ediciones est une maison d'édition de bandes dessinées basée à Barcelone et qui publie en France et en Espagne. Créée en 2004, elle a lancé en 2008 une collection jeunesse appelée Mamut comics.",
   "website": "https://bangediciones.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

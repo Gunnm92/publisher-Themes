@@ -5,7 +5,8 @@
   "description": "",
   "website": "https://editionsamok.wixsite.com/amok",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

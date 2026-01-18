@@ -2,11 +2,11 @@
   "name": "Noir Dessin Production",
   "slug": "noir-dessin-production",
   "country": "FR",
-  "description": "Maison d&#x27;édition spécialisée dans les produits wallons depuis 20 ans, Noir Dessin Production vous propose de redécouvrir notre folklore et nos traditions.",
+  "description": "Maison d'édition spécialisée dans les produits wallons depuis 20 ans, Noir Dessin Production vous propose de redécouvrir notre folklore et nos traditions.",
   "website": "http://ww5.noirdessin.be/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

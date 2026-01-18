@@ -5,7 +5,8 @@
   "description": "",
   "website": "http://grrrart.free.fr/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

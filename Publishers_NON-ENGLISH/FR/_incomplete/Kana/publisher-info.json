@@ -2,11 +2,11 @@
   "name": "Kana",
   "slug": "kana",
   "country": "FR",
-  "description": "début en 2012. Kana est une maison d&#x27;édition spécialisée dans le manga. Nous publions notamment Bakuman, Black Butler, Death Note, Gintama, Naruto et bien d&#x27;autres !",
+  "description": "début en 2012. Kana est une maison d'édition spécialisée dans le manga. Nous publions notamment Bakuman, Black Butler, Death Note, Gintama, Naruto et bien d'autres !",
   "website": "https://www.kana.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {

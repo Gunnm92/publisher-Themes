@@ -3,15 +3,19 @@
   "slug": "hachette",
   "country": "FR",
   "description": "",
-  "website": "https://www.hachette.fr/",
+  "website": "https://www.hachette-collections.com/fr-fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {
       "label": "Site officiel",
       "url": "https://www.hachette.fr/"
+    },
+    {
+      "label": "Site officiel",
+      "url": "https://www.hachette-collections.com/fr-fr/"
     }
   ],
   "labels": [],

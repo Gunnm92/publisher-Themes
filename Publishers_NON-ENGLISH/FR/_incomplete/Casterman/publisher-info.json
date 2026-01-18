@@ -6,12 +6,16 @@
   "website": "https://www.casterman.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [
     {
       "label": "Site officiel",
       "url": "https://www.casterman.com/Bande-dessinee"
+    },
+    {
+      "label": "Site officiel",
+      "url": "https://www.casterman.com/"
     }
   ],
   "labels": [],
