@@ -8,12 +8,7 @@
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.png"
   },
-  "links": [
-    {
-      "label": "Site officiel",
-      "url": "https://www.lisez.com/editeurs/hors-collection"
-    }
-  ],
+  "links": [],
   "labels": [],
   "notes": "BD-Tek: Éditions Hors Collection",
   "last_updated": "2026-01-18",

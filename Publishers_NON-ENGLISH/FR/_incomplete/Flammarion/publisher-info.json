@@ -8,12 +8,7 @@
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.png"
   },
-  "links": [
-    {
-      "label": "Site officiel",
-      "url": "https://editions.flammarion.com/"
-    }
-  ],
+  "links": [],
   "labels": [],
   "notes": "BD-Tek: Site Internet : Flammarion Jeunesse Éditions Flammarion SA",
   "last_updated": "2026-01-18",
