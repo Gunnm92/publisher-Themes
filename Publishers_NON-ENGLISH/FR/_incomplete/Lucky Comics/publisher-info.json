@@ -2,7 +2,7 @@
   "name": "Lucky Comics",
   "slug": "lucky-comics",
   "country": "FR",
-  "description": "",
+  "description": "Éditeur ou label de diffusion comics sans site actif.",
   "website": "",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

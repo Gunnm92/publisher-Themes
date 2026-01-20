@@ -2,8 +2,8 @@
   "name": "Makma",
   "slug": "makma",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Studio et éditeur de comics et BD contemporaines, production internationale.",
+  "website": "https://www.makma.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

@@ -1,0 +1,59 @@
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Aelement/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Fluide Glacial/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Galaxie Comics/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Hexagon Comics/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Los Brignolès/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Makma/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Alpen Publishers/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/André Jobin/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Appro/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Arboris/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Audie/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Bac@Bd/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Bibliotheca Virtualis/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Bédésup/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Capitol Éditions/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Claude Lefrancq Éditeur (CLE)/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/DC Comics/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/De La Martinière Jeunesse/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Desinge - Hugo & Cie/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/EP Media/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Editions Marcel Daubin/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Editions du Miroir/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Emmanuel Proust Éditions/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Fordis/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Galerie Dock Sud/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Hachette/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Hugo & Cie/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/I.P.M. - International Presse Magazine/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/JYB Aventures/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Kesselring/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Kontre Kulture/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/L'Association/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Le Téméraire/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Le potager moderne/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Lucky Comics/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Marvel - MAX/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Marvel/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Naïve/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Nickel Productions/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Norma Editorial/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Office des publications officielles des communauté/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Pan pan/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Parfum d'encre/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Physalis/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Pierre Papier Chicon/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Pointe Noire/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Reprodukt/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Rossel/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Sixto Éditions/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Tapages Nocturnes/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Taste y Cool/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Theloma/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Tonkam/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Zanpano/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/_downloads/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Édition pirate/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/_incomplete/Éditions Bréal/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/Çà et Là/publisher-info.json
+/config/workspace/publisher-Themes/Publishers_NON-ENGLISH/FR/çà et là - Arte Éditions/publisher-info.json

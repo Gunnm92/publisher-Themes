@@ -2,8 +2,8 @@
   "name": "Wanga",
   "slug": "wanga",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Avec une bibliothèque en constante évolution, Wanga Comics à su divertissement se basés une réputation dans le monde du Comic Book made in France. Enraciné dans le monde de l'édition depuis plus de 10 ans, les personnages de Wanga Comics a connu un succès avec des super-héros comme le Patrouilleur, Les Nouveaux Gardiens, Pantz ou encore Les Strangers.",
+  "website": "https://wangacomics.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

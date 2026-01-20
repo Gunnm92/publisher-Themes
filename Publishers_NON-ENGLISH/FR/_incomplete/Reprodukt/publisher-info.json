@@ -2,8 +2,8 @@
   "name": "Reprodukt",
   "slug": "reprodukt",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Éditeur allemand de BD indépendante et romans graphiques.",
+  "website": "https://reprodukt.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

@@ -2,8 +2,8 @@
   "name": "Hugo & Cie",
   "slug": "hugo-cie",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Maison d’édition française généraliste, BD, romans graphiques, littérature.",
+  "website": "https://www.hugoetcie.fr",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

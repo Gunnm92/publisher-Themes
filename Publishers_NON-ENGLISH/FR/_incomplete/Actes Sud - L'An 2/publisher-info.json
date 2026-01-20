@@ -2,10 +2,11 @@
   "name": "Actes Sud - L'An 2",
   "slug": "actes-sud-lan-2",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Issues de l’Atelier de Cartographie Thématique et Statistique (ACTES), les éditions Actes Sud ont été créées en 1978, par Hubert Nyssen et sa femme, Christine Le Bœuf, dans un village de la vallée des Baux, où peu après les ont rejoints les autres fondateurs : Françoise Nyssen, Bertrand Py, Jean-Paul Capitani.\n\nD’emblée, la maison développe une politique éditoriale généraliste, tournée vers la littérature, mais aussi vers les arts et les sciences humaines. Très vite, elle se distingue par son implantation en région, une situation peu commune à l’époque, et par un certain nombre de caractéristiques : une identité graphique forte (format des livres, choix du papier de couleur ivoire, couvertures illustrées…) et une large ouverture aux littératures étrangères.\n\nEn 1983, les éditions Actes Sud s’installent au lieu-dit Le Méjan, dans le centre d’Arles, et poursuivent leur activité dans une volonté d’indépendance et un esprit de découverte et de partage. Dans une même perspective, l’association du Méjan, créée par les fondateurs, entame une programmation d’expositions, lectures, concerts... En 1987, les éditions ouvrent un bureau parisien où elles regroupent certaines activités éditoriales et celles de la communication.\n\nSi le catalogue, depuis l’origine, réserve une place prépondérante à la littérature (une quarantaine de domaines linguistiques, et un domaine français riche à ce jour de six cent cinquante titres), il accueille au fil du temps de plus en plus d’auteurs venus des divers champs de la connaissance et des multiples disciplines artistiques. Et depuis quelques années, avec la publication d’ouvrages portant sur les enjeux de la transition écologique, il affirme l’engagement citoyen de la maison.\n\nGouvernées par deux mots-clés, plaisir et nécessité, les éditions Actes Sud ont à cœur de soutenir et d’encourager la créativité de tous ceux qui participent à leur aventure éditoriale et de favoriser l’émergence et la reconnaissance de leur talent.",
+  "website": "https://www.actes-sud.fr/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],

@@ -2,8 +2,8 @@
   "name": "Editions Reflexions",
   "slug": "editions-reflexions",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Les Editions Reflexions sont une association de loi 1901 créée dans le but de promouvoir l'édition française. Au travers de licences traduites, de projets français et de manifestations, nous restons à lécoute de nos lecteurs !",
+  "website": "https://editions-reflexions.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

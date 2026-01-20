@@ -2,7 +2,11 @@
   "name": "Akileos",
   "slug": "akileos",
   "country": "FR",
-  "description": "",
+  "description": "Les éditions Akileos ont été créées à la fin de l’année 2002 par deux inconscients : Emmanuel Bouteille et Richard Saint Martin. Ils s’étaient connus quelques années auparavant lors d’un stage chez… un éditeur BD, puis ils avaient travaillé ensemble en librairie durant quelques années.
+
+En créant leur propre maison d’édition, leur ambition était de dénicher de nouveaux talents et de gagner beaucoup d’argent. Ce deuxième point s’étant rapidement révélé être un doux rêve, ils ont malgré tout décidé de s’accrocher et se sont consacrés corps et âme au premier objectif.
+
+BD, art-books, beaux livres cinéma : les éditions Akileos s’intéressent à l’association de l’image et du texte sous toutes ses formes. Année après année, Akileos construit un catalogue riche et diversifié, célébrant la créativité d’artistes venus du monde entier que la maison est fière de représenter.",
   "website": "http://www.akileos.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

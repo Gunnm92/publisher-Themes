@@ -2,8 +2,8 @@
   "name": "Kontre Kulture",
   "slug": "kontre-kulture",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Maison d’édition idéologique, essais, BD et ouvrages militants.",
+  "website": "https://kontrekulture.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

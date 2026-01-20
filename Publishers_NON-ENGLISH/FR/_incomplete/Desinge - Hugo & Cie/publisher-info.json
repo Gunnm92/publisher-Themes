@@ -2,8 +2,8 @@
   "name": "Desinge - Hugo & Cie",
   "slug": "desinge-hugo-cie",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Label graphique rattaché à Hugo & Cie, orienté BD et illustration.",
+  "website": "https://www.hugoetcie.fr",
   "assets": {
     "header": "[[FOLDER]]/header.jpg"
   },

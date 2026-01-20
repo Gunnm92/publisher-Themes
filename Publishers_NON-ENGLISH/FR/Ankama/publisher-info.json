@@ -2,7 +2,9 @@
   "name": "Ankama",
   "slug": "ankama",
   "country": "FR",
-  "description": "Détails Ankama Éditions Depuis :  2006 59100 Roubaix, France",
+  "description": "Créé en 2001, Ankama est aujourd'hui un groupe indépendant de création numérique spécialisé dans le domaine du divertissement et incontournable dans le monde du jeu vidéo !
+
+Depuis le succès phénoménal en 2004, du jeu en ligne DOFUS (85 millions de comptes ont été créés dans le monde, dont plus de 40 millions en France). Ankama a investi plusieurs domaines d'activité pour devenir un véritable groupe transmédia.",
   "website": "http://Ankama Editions",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

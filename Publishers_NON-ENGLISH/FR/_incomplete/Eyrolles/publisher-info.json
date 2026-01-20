@@ -2,7 +2,7 @@
   "name": "Eyrolles",
   "slug": "eyrolles",
   "country": "FR",
-  "description": "Détails Éditions Eyrolles 75005 Paris, France",
+  "description": "Le Groupe Eyrolles est présent sur Internet depuis 1997, avec des sites web consacrés à son activité de diffuseur et d'éditeur, et met en place assez tôt la possibilité de commander des livres de son fonds au travers de ces sites.\n\nEn 1999, le groupe décide d'ouvrir un véritable site marchand, en s'appuyant sur l'expertise de sa librairie spécialisée parisienne et sur sa structure de vente à distance (EyrollesPro anciennement Dlivres). Le site Eyrolles.com est lancé en juillet de la même année et ouvre avec un premier rayon : l'Informatique.\n\nEn 2000, les rayons Entreprise-management et BTP sont ajoutés sur le site et des partenariats sont mis en place avec quelques sites positionnés sur ces secteurs.\n\nDepuis de nombreux rayons ont été rajouté, suivant ainsi à la fois les évolutions de l’activité de libraire et les nouveaux thèmes éditoriaux français.",
   "website": "https://www.eyrolles.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

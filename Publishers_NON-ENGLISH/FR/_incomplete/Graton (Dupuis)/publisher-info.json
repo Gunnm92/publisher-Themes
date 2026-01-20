@@ -2,8 +2,8 @@
   "name": "Graton (Dupuis)",
   "slug": "graton-dupuis",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Depuis sa création en 1938, Dupuis développe des bandes dessinées qui passionnent le grand public.\n\nAu-delà de son ancrage franco-belge et des grandes séries qui ont fait sa réputation, la force de l'entreprise repose sur sa capacité à se projeter en avant et à savoir régulièrement réinventer son métier. Créateur d'univers mythiques comme Lucky Luke, Spirou, Boule et Bill, Les Schtroumpfs, Cédric ou Largo Winch, Dupuis bénéficie dans ses productions actuelles de l'expérience acquise auprès des plus grands auteurs.\n\nDans le même esprit, Dupuis a toujours intégré les métiers de l'édition, de l'animation et des droits dérivés, en vue d'assurer une exploitation cohérente de ses univers.",
+  "website": "https://www.dupuis.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

@@ -3,7 +3,7 @@
   "slug": "panini-comics",
   "country": "FR",
   "description": "L'éditeur des comics Marvel en France, mais aussi de Star Wars, The Boys, Buffy, Crossed, Kick-Ass et tout un tas d'autres méga-hits !",
-  "website": "",
+  "website": "https://www.panini.fr",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

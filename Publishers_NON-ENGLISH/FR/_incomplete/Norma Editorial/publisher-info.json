@@ -2,8 +2,8 @@
   "name": "Norma Editorial",
   "slug": "norma-editorial",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Grand éditeur espagnol de BD, comics et manga.",
+  "website": "https://www.normaeditorial.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

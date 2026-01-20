@@ -2,7 +2,7 @@
   "name": "Lounak",
   "slug": "lounak",
   "country": "FR",
-  "description": "Détails Site Internet : Lounak.com Studio Lounak Depuis :  2010 Montréal, Canada <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "description": "Les éditions Lounak publient de la bande dessinée associée aux littératures de l'imaginaire. Elles sont nées d’un désir de faire de beaux livres à partir du travail artistique incroyable qui est exécuté quotidiennement au Studio Lounak. Fascinés autant par la bande dessinée américaine, européenne qu’asiatique, nous publions ce qui nous inspirent.\n\nFondé en 2010\nStudio Lounak est un centre créatif hébergeant plusieurs artistes freelance oeuvrant dans le domaine de la Bande Dessinée Européenne ainsi que du comics Américains, du jeu vidéo, de l'animation, de l'illustration et de la publicité.",
   "website": "",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

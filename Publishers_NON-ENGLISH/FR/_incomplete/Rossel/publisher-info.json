@@ -3,7 +3,7 @@
   "slug": "rossel",
   "country": "FR",
   "description": "Détails Rossel Éditions 1000 Bruxelles, Belgique",
-  "website": "",
+  "website": "https://www.rossel.be",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

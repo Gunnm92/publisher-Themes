@@ -2,8 +2,8 @@
   "name": "Marvel - MAX",
   "slug": "marvel-max",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Label adulte de Marvel Comics pour contenus matures.",
+  "website": "https://www.marvel.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

@@ -2,8 +2,8 @@
   "name": "Presses aventure",
   "slug": "presses-aventure",
   "country": "FR",
-  "description": "Division du Groupe Modus, Presses Aventure est une maison d'édition jeunesse québécoise. Nous aimons les livres colorés, les personnages attachants, les gags et l'aventure! Les Éditions Presses Aventure proposent des livres jeunesse tels que des contes illustrés, des cahiers d’activités et des bandes dessinées. date de création 1996.",
-  "website": "",
+  "description": "Division du Groupe Modus, Presses Aventure est une maison d'édition jeunesse québécoise. Nous aimons les livres colorés, les personnages attachants, les gags et l'aventure!\nLes Éditions Presses Aventure proposent des livres jeunesse tels que des contes illustrés, des cahiers d’activités et des bandes dessinées.\ndate de création 1996.",
+  "website": "https://www.pressesaventure.com",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.png"

@@ -2,7 +2,7 @@
   "name": "Daniel Maghen",
   "slug": "daniel-maghen",
   "country": "FR",
-  "description": "Détails Site Internet : Daniel Maghen Galerie & Editions Daniel Maghen Depuis :  2005 75006 Paris, France Aujourd'hui la galerie... <!-- function toggle_descript(id,id2) { if(but_conf.alt == 'moins') { but_conf.alt = 'plus'; but_conf.src = 'images/plus.png'; } else { but_conf.alt = 'moins'; but_conf.src = 'images/moins.png'; } } //-->",
+  "description": "La galerie Daniel Maghen c’est avant tout une histoire de passion. Celle de Daniel Maghen, son fondateur, pour la bande dessinée. Il en a fait son métier. Dès 1990 il lance le marché des planches originales et en 2003 ouvre les portes de sa galerie, sur les Quais de Seine à Paris.\n\nAujourd’hui la galerie Maghen possède la collection permanente la plus importante en Europe, avec près de 8000 dessins de BD, de plus de 300 auteurs différents. Une vingtaine d’expositions y sont organisées chaque année, pour le plus grand bonheur des auteurs, des bédéphiles et autres amateurs d’arts graphiques, qui s’y retrouvent régulièrement lors des vernissages et dédicaces, dans une ambiance chaleureuse et décontractée.\n\nEn 2005 les éditions DM ont vu le jour. Depuis, des milliers de lecteurs se sont emparés des beaux livres d’illustrations d’Olivier Ledroit et Emmanuel Lepage et des désormais célèbres Biographies en images d’André Juillard, Cosey et Vicomte. En 2008 la Collection Bande Dessinée a été lancée avec succès. D’autres projets sont en cours de réalisation.",
   "website": "https://www.danielmaghen.com/fr/index.htm",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",

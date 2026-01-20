@@ -2,8 +2,8 @@
   "name": "Éditions du Taupinambour",
   "slug": "ditions-du-taupinambour",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "L’histoire de Taupinambour débute en 1998. Année durant laquelle Bernard Coulange créa le site bdoubliees.com, spécialisé dans les reproductions – via des scans artisanaux – d’anciens mini-récits, parus dans les magazines à la fin des années 1950. En 2003, l’éditeur est approché par Hervé Drouet, responsable alors de l’imprimerie Graphik à Soissons. Les histoires exhumées deviennent alors des albums, recréés grâce à un système d’impression numérique performant et économique. Dans des coûts raisonnables, de centaines d’exemplaires sont proposés dès 2005.\nDurant les années suivantes, la technique se perfectionne et les Editions Taupinambour se font une jolie place dans le monde tumultueux de l’édition traditionnelle. De plus en plus exhaustif, le catalogue compte plus de 1.000 titres issus d’anciens hebdomadaires. Parmi ces derniers, des fleurons du passé comme Loup Noir, Tarao, Arthur le fantôme, Fan-Fan et ses amis, Popeye, Ouragan…\n\nEn octobre 2017, les Éditions du Taupinambour sont frappées par la disparition tragique d’Hervé DROUET. Reprenant le flambeau, son épouse Cristina DROUET perpétue la tradition et continue d’œuvrer pour la revalorisation et la préservation du riche patrimoine BD de la France.",
+  "website": "https://www.taupinambour.fr",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.png"

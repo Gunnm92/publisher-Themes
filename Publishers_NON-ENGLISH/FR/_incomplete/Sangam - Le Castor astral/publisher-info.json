@@ -2,8 +2,8 @@
   "name": "Sangam - Le Castor astral",
   "slug": "sangam-le-castor-astral",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Les éditions Le Castor Astral ont été créées à Bordeaux en 1975 par deux étudiants en “Carrières du Livre”, Jean-Yves Reuzeau et Marc Torralba.\n\nAujourd’hui, cette aventure éditoriale est menée par plusieurs équipes autour de Marc Torralba à Bordeaux, Jean-Yves Reuzeau à Paris et Francis Dannemark à Bruxelles. François Tétreau est le correspondant à Montréal.\n\nLe catalogue est principalement axé sur la littérature française, la littérature étrangère (notamment la littérature flamande) et sur la musique. Il se distingue à la fois par une grande exigence de contenu et un soin tout particulier apporté à l’objet livre. Tout est maîtrisé en interne, dans un esprit artisanal, du manuscrit aux fichiers remis aux imprimeurs. La production est d’une quarantaine de livres par an, diffusés en librairie par Volumen.\n\nLa maison d’édition attache autant d’importance à la réhabilitation d’auteurs majeurs (Emmanuel Bove, René Guy Cadou, Louis Parrot, etc.) qu’à la publication de textes méconnus d’auteurs classiques (collection « Les Inattendus »), ainsi qu’à la découverte et la défense d’auteurs contemporains (Claude Bourgeyx, Yves Buin, Jean-Louis Crimon, Francis Dannemark, Patrice Delbourg, Xavier Deutsch, Eva Kavian, Philippe Lacoche, Hervé Le Tellier, Bernard Morlino, Marie-Ève Sténuit, Régine Vandamme, etc.).\n\nLoin des préoccupations des « grandes » maisons d’édition inféodées à la rentabilité forcenée, Le Castor Astral publie avec passion et plaisir, cherchant à instaurer des liens privilégiés avec ses auteurs et ses lecteurs.",
+  "website": "https://www.castorastral.com/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.jpg"

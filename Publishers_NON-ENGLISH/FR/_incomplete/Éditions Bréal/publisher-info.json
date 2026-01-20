@@ -2,8 +2,8 @@
   "name": "Éditions Bréal",
   "slug": "ditions-br-al",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Éditeur scolaire, universitaire et pédagogique.",
+  "website": "https://www.editions-breal.fr",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
     "logo": "[[FOLDER]]/logo.png"

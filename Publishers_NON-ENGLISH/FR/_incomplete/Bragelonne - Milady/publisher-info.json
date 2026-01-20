@@ -2,10 +2,11 @@
   "name": "Bragelonne - Milady",
   "slug": "bragelonne-milady",
   "country": "FR",
-  "description": "",
-  "website": "",
+  "description": "Le groupe Bragelonne, c’est l’histoire curieuse d’une bande de potes qui, en voulant partager leur passion, sont devenus le premier éditeur indépendant d’Imaginaire en langue française. Composée d’un seul label à sa naissance, la maison en comporte aujourd’hui sept, dans des genres aussi divers que l’Imaginaire (Bragelonne), les Comics (HiComics), la littérature (Stéphane Marsan & Milady), la bit-lit (Milady), la jeunesse (Castelmore), ou encore le jeu.\n\nLes éditions Bragelonne, à l’origine du groupe, c’est déjà plus de 550 auteurs venus de tous les horizons, qui forment le catalogue le plus complet et le plus varié dans le domaine de l’Imaginaire. Il regroupe les plus grands noms de la Fantasy, du fantastique et de la science-fiction, dans toute la diversité de ces genres.",
+  "website": "https://www.bragelonne.fr/",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],
