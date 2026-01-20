@@ -16,5 +16,10 @@
   ],
   "labels": [],
   "notes": "BD-Tek: Site Internet : Flammarion Jeunesse Éditions Flammarion SA",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#000",
+    "text": "#000",
+    "label": "#ffffff"
+  }
 }

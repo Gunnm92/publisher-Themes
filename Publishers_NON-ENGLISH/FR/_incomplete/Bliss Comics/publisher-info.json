@@ -16,5 +16,10 @@
   ],
   "labels": [],
   "notes": "BD-Tek: Bliss Comics / Bliss Éditions Bliss Comics est l'éditeur en France des comics de Valiant Entertainement (Quantum and Woody, X-O Manowar, Harbinger, Bloodshot, Raï,...).",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#000",
+    "text": "#000",
+    "label": "#ffffff"
+  }
 }

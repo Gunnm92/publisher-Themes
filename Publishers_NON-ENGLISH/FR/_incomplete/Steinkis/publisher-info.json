@@ -16,5 +16,10 @@
   ],
   "labels": [],
   "notes": "BD-Tek: Site Internet : Steinkis.com",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#ff0",
+    "text": "#ff0",
+    "label": "#000000"
+  }
 }

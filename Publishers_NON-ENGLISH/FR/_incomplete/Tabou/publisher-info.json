@@ -16,5 +16,10 @@
   ],
   "labels": [],
   "notes": "",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#0b0b0b",
+    "text": "#0b0b0b",
+    "label": "#ffffff"
+  }
 }

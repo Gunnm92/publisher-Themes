@@ -11,5 +11,10 @@
   "links": [],
   "labels": [],
   "notes": "",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#FFF",
+    "text": "#FFF",
+    "label": "#000000"
+  }
 }

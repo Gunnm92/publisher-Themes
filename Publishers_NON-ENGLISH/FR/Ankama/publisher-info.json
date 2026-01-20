@@ -2,9 +2,7 @@
   "name": "Ankama",
   "slug": "ankama",
   "country": "FR",
-  "description": "Créé en 2001, Ankama est aujourd'hui un groupe indépendant de création numérique spécialisé dans le domaine du divertissement et incontournable dans le monde du jeu vidéo !
-
-Depuis le succès phénoménal en 2004, du jeu en ligne DOFUS (85 millions de comptes ont été créés dans le monde, dont plus de 40 millions en France). Ankama a investi plusieurs domaines d'activité pour devenir un véritable groupe transmédia.",
+  "description": "Créé en 2001, Ankama est aujourd'hui un groupe indépendant de création numérique spécialisé dans le domaine du divertissement et incontournable dans le monde du jeu vidéo !\n\nDepuis le succès phénoménal en 2004, du jeu en ligne DOFUS (85 millions de comptes ont été créés dans le monde, dont plus de 40 millions en France). Ankama a investi plusieurs domaines d'activité pour devenir un véritable groupe transmédia.",
   "website": "http://Ankama Editions",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
@@ -23,5 +21,10 @@ Depuis le succès phénoménal en 2004, du jeu en ligne DOFUS (85 millions de co
   ],
   "labels": [],
   "notes": "",
-  "last_updated": "2026-01-18"
+  "last_updated": "2026-01-18",
+  "theme": {
+    "bg": "#9c8e84",
+    "text": "#9c8e84",
+    "label": "#ffffff"
+  }
 }
