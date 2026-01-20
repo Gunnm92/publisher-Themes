@@ -1,0 +1,20 @@
+{
+  "name": "Kid Beowulf",
+  "slug": "kid-beowulf",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#f9ee30",
+    "text": "#f9ee30",
+    "label": "#ffffff"
+  }
+}

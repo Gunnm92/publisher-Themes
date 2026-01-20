@@ -1,0 +1,20 @@
+{
+  "name": "Spunch Comics",
+  "slug": "spunch-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#ffcc33",
+    "text": "#ffcc33",
+    "label": "#ffffff"
+  }
+}

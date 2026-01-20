@@ -1,0 +1,19 @@
+{
+  "name": "Kel McDonald",
+  "slug": "kel-mcdonald",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#FFFFFF",
+    "text": "#FFFFFF",
+    "label": "#000000"
+  }
+}

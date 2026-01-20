@@ -1,0 +1,19 @@
+{
+  "name": "Art of Fiction",
+  "slug": "art-of-fiction",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#e1e2dc",
+    "text": "#e1e2dc"
+  }
+}

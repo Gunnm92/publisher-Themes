@@ -1,0 +1,20 @@
+{
+  "name": "Andrews McMeel Publishing",
+  "slug": "andrews-mcmeel-publishing",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#006666",
+    "text": "#006666",
+    "label": "#ffffff"
+  }
+}

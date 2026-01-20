@@ -1,0 +1,20 @@
+{
+  "name": "Platinum Manga By DMP - Classic Manga Works by Osamu Tezuka",
+  "slug": "platinum-manga-by-dmp-classic-manga-works-by-osamu-tezuka",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#608cc9",
+    "text": "#608cc9",
+    "label": "#000000"
+  }
+}

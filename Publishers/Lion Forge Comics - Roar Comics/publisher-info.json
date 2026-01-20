@@ -1,0 +1,20 @@
+{
+  "name": "Lion Forge Comics - Roar Comics",
+  "slug": "lion-forge-comics-roar-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#e75025",
+    "text": "#e75025",
+    "label": "#ffffff"
+  }
+}

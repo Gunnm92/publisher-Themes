@@ -1,0 +1,20 @@
+{
+  "name": "Virtual Graphics",
+  "slug": "virtual-graphics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#8c93d7",
+    "text": "#8c93d7",
+    "label": "#000000"
+  }
+}

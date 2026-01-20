@@ -1,0 +1,20 @@
+{
+  "name": "Evil Twin Comics",
+  "slug": "evil-twin-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#f7c405",
+    "text": "#f7c405",
+    "label": "#7d131b"
+  }
+}

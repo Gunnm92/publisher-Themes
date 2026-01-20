@@ -1,0 +1,20 @@
+{
+  "name": "DC INK",
+  "slug": "dc-ink",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#ffffff",
+    "text": "#ffffff",
+    "label": "#0085ca"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Black Mask Studios",
+  "slug": "black-mask-studios",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#000000",
+    "text": "#000000",
+    "label": "#efefef"
+  }
+}

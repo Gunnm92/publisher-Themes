@@ -1,0 +1,20 @@
+{
+  "name": "Marvel",
+  "slug": "marvel",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#080c14",
+    "text": "#080c14",
+    "label": "#ffffff"
+  }
+}

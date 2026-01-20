@@ -1,0 +1,19 @@
+{
+  "name": "LES REVEURS",
+  "slug": "les-reveurs",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#000000",
+    "text": "#000000",
+    "label": "#ffffff"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "NBM",
+  "slug": "nbm",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#cbd1cf",
+    "text": "#cbd1cf",
+    "label": "#000000"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Darby Pop",
+  "slug": "darby-pop",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#18d9d8",
+    "text": "#18d9d8",
+    "label": "#000000"
+  }
+}

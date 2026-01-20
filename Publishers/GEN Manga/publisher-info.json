@@ -1,0 +1,20 @@
+{
+  "name": "GEN Manga",
+  "slug": "gen-manga",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#a472b1",
+    "text": "#a472b1",
+    "label": "#000000"
+  }
+}

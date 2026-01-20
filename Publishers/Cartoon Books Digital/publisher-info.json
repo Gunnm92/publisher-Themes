@@ -1,0 +1,20 @@
+{
+  "name": "Cartoon Books Digital",
+  "slug": "cartoon-books-digital",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#ed1b24",
+    "text": "#ed1b24",
+    "label": "#ffffff"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Red 5 Comics",
+  "slug": "red-5-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#5d5d5d",
+    "text": "#5d5d5d",
+    "label": "#ffffff"
+  }
+}

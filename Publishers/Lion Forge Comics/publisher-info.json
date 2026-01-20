@@ -1,0 +1,20 @@
+{
+  "name": "Lion Forge Comics",
+  "slug": "lion-forge-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#209cd8",
+    "text": "#209cd8",
+    "label": "#ffffff"
+  }
+}

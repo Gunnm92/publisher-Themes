@@ -1,0 +1,20 @@
+{
+  "name": "Harlequin SB Creative Corp_",
+  "slug": "harlequin-sb-creative-corp",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#e7a0a6",
+    "text": "#e7a0a6",
+    "label": "#ffffff"
+  }
+}

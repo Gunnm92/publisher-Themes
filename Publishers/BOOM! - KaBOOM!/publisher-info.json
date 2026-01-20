@@ -1,0 +1,20 @@
+{
+  "name": "BOOM! - KaBOOM!",
+  "slug": "boom-kaboom",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#279FBA",
+    "text": "#279FBA",
+    "label": "#ffffff"
+  }
+}

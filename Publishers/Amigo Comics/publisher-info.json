@@ -1,0 +1,19 @@
+{
+  "name": "Amigo Comics",
+  "slug": "amigo-comics",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#2b904e",
+    "text": "#2b904e"
+  }
+}

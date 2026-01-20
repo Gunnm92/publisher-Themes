@@ -1,0 +1,20 @@
+{
+  "name": "Akileos",
+  "slug": "akileos",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#b92435",
+    "text": "#b92435",
+    "label": "#ffffff"
+  }
+}

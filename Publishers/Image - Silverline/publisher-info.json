@@ -1,0 +1,20 @@
+{
+  "name": "Image - Silverline",
+  "slug": "image-silverline",
+  "country": "",
+  "description": "",
+  "website": "",
+  "assets": {
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.jpg"
+  },
+  "links": [],
+  "labels": [],
+  "notes": "",
+  "last_updated": "2026-01-20",
+  "theme": {
+    "bg": "#5d0400",
+    "text": "#5d0400",
+    "label": "#ffffff"
+  }
+}
