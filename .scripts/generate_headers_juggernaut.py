@@ -390,13 +390,13 @@ def generate_header_for_publisher(
     publisher_name = pub_info.get("name", publisher_dir.name)
     print(f"\n[{publisher_name}]")
 
-    # Check if header already exists
-    header_jpg = publisher_dir / "header.jpg"
-    header_png = publisher_dir / "header.png"
+    # Generate new headers even if one exists (to pick the best)
+    # header_jpg = publisher_dir / "header.jpg"
+    # header_png = publisher_dir / "header.png"
 
-    if header_jpg.exists() or header_png.exists():
-        print(f"  → Header already exists, skipping")
-        return True
+    # if header_jpg.exists() or header_png.exists():
+    #     print(f"  → Header already exists, skipping")
+    #     return True
 
     # Check for pre-enriched prompt
     prompt_file = publisher_dir / "ai_prompt.txt"
@@ -431,8 +431,8 @@ def generate_header_for_publisher(
         print(f"  → Generation failed or timed out")
         return False
 
-    # Download the image
-    output_path = publisher_dir / "header_generated.jpg"
+    # Download the image directly as header.jpg
+    output_path = publisher_dir / "header.jpg"
     if download_image(prompt_id, output_path):
         print(f"  → ✓ Success")
         return True
