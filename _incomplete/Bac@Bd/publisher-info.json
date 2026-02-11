@@ -5,7 +5,8 @@
   "description": "Structure référencée ponctuellement dans des bases BD, sans activité éditoriale claire.",
   "website": "",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],

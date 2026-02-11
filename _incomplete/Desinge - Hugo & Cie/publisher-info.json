@@ -5,7 +5,8 @@
   "description": "Label graphique rattaché à Hugo & Cie, orienté BD et illustration.",
   "website": "https://www.hugoetcie.fr",
   "assets": {
-    "header": "[[FOLDER]]/header.jpg"
+    "header": "[[FOLDER]]/header.jpg",
+    "logo": "[[FOLDER]]/logo.png"
   },
   "links": [],
   "labels": [],

@@ -1,0 +1,206 @@
+{
+  "9": {
+    "inputs": {
+      "filename_prefix": "Publisher-Header",
+      "images": [
+        "41:8",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Header Image"
+    }
+  },
+  "43": {
+    "inputs": {
+      "string": [
+        "47",
+        0
+      ],
+      "find": "{user_prompt}",
+      "replace": [
+        "48",
+        0
+      ]
+    },
+    "class_type": "StringReplace",
+    "_meta": {
+      "title": "Replace User Prompt"
+    }
+  },
+  "44": {
+    "inputs": {
+      "value": "A professional, artistic banner header image for a comic book publisher. The composition features a dynamic scene that captures the essence and style of the publisher's catalog. High quality digital illustration with dramatic lighting, vivid colors, and professional graphic design aesthetic. The image has a wide cinematic composition perfect for a website banner, featuring key visual elements that represent the publisher's brand identity and editorial style."
+    },
+    "class_type": "PrimitiveStringMultiline",
+    "_meta": {
+      "title": "Base Caption"
+    }
+  },
+  "46": {
+    "inputs": {
+      "string": [
+        "43",
+        0
+      ],
+      "find": "{caption}",
+      "replace": [
+        "44",
+        0
+      ]
+    },
+    "class_type": "StringReplace",
+    "_meta": {
+      "title": "Replace Caption"
+    }
+  },
+  "47": {
+    "inputs": {
+      "value": "You are an assistant designed to generate high-quality artistic header images for comic book publishers. Create a professional banner with strong visual impact. <Prompt Start>\n{\n\"image\": {\n\"tags\": \"{user_prompt}\",\n\"caption\": \"{caption}\"\n}\n}"
+    },
+    "class_type": "PrimitiveStringMultiline",
+    "_meta": {
+      "title": "Prompt Template"
+    }
+  },
+  "48": {
+    "inputs": {
+      "value": "<general_tags>\n<style>professional illustration, comic book art, graphic novel style, digital art, banner design, header image</style>\n<composition>wide panoramic composition, cinematic framing, dynamic layout, balanced design</composition>\n<lighting>dramatic lighting, professional studio quality, vibrant colors, high contrast</lighting>\n<atmosphere>artistic, creative, professional, impactful, engaging</atmosphere>\n<quality>masterpiece, best quality, high resolution, extremely detailed, professional grade</quality>\n<format>wide banner, landscape orientation, header format, 3:2 aspect ratio</format>\n<elements>comic book imagery, artistic motifs, brand identity elements, thematic visual storytelling</elements>\n</general_tags>"
+    },
+    "class_type": "PrimitiveStringMultiline",
+    "_meta": {
+      "title": "User Prompt Tags"
+    }
+  },
+  "41:32": {
+    "inputs": {
+      "shift": 6,
+      "model": [
+        "41:30",
+        0
+      ]
+    },
+    "class_type": "ModelSamplingAuraFlow",
+    "_meta": {
+      "title": "ModelSamplingAuraFlow"
+    }
+  },
+  "41:30": {
+    "inputs": {
+      "unet_name": "NewBie-Image-Exp0.1-bf16.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "41:26": {
+    "inputs": {
+      "vae_name": "ae.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "41:34": {
+    "inputs": {
+      "clip_name1": "gemma_3_4b_it_bf16.safetensors",
+      "clip_name2": "jina_clip_v2_bf16.safetensors",
+      "type": "newbie",
+      "device": "default"
+    },
+    "class_type": "DualCLIPLoader",
+    "_meta": {
+      "title": "Load DualCLIP"
+    }
+  },
+  "41:8": {
+    "inputs": {
+      "samples": [
+        "41:3",
+        0
+      ],
+      "vae": [
+        "41:26",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "41:31": {
+    "inputs": {
+      "width": 1536,
+      "height": 1024,
+      "batch_size": 1
+    },
+    "class_type": "EmptySD3LatentImage",
+    "_meta": {
+      "title": "Empty Latent Image (3:2 Banner Format)"
+    }
+  },
+  "41:3": {
+    "inputs": {
+      "seed": 12345,
+      "steps": 25,
+      "cfg": 6.0,
+      "sampler_name": "res_multistep",
+      "scheduler": "simple",
+      "denoise": 1,
+      "model": [
+        "41:32",
+        0
+      ],
+      "positive": [
+        "41:43",
+        0
+      ],
+      "negative": [
+        "41:49",
+        0
+      ],
+      "latent_image": [
+        "41:31",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "41:43": {
+    "inputs": {
+      "text": [
+        "46",
+        0
+      ],
+      "clip": [
+        "41:34",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Positive)"
+    }
+  },
+  "41:49": {
+    "inputs": {
+      "text": "low quality, blurry, pixelated, distorted, ugly, watermark, text overlay, logo overlay, text, letters, words, typography, writing, captions, labels, amateur, unprofessional, poor composition, bad lighting, dull colors, boring, generic, stock photo, photography, realistic photo, portrait photo, signature, artist signature",
+      "clip": [
+        "41:34",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Negative)"
+    }
+  }
+}

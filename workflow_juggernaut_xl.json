@@ -1,0 +1,107 @@
+{
+  "3": {
+    "inputs": {
+      "seed": 12345,
+      "steps": 20,
+      "cfg": 7.0,
+      "sampler_name": "dpmpp_2m",
+      "scheduler": "karras",
+      "denoise": 1,
+      "model": [
+        "4",
+        0
+      ],
+      "positive": [
+        "6",
+        0
+      ],
+      "negative": [
+        "7",
+        0
+      ],
+      "latent_image": [
+        "5",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "4": {
+    "inputs": {
+      "ckpt_name": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {
+      "title": "Load Checkpoint - Juggernaut XL"
+    }
+  },
+  "5": {
+    "inputs": {
+      "width": 2048,
+      "height": 384,
+      "batch_size": 1
+    },
+    "class_type": "EmptyLatentImage",
+    "_meta": {
+      "title": "Empty Latent Image (Wide Banner ~5.3:1)"
+    }
+  },
+  "6": {
+    "inputs": {
+      "text": "A professional artistic banner illustration for a comic book publisher, wide panoramic composition, dynamic scene with vibrant colors and dramatic lighting, detailed digital artwork, comic book art style, no text, no words, no letters, no typography, masterpiece quality, highly detailed",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Positive Prompt)"
+    }
+  },
+  "7": {
+    "inputs": {
+      "text": "text, words, letters, writing, typography, watermark, signature, logo text, captions, labels, titles, subtitles, artist name, low quality, blurry, pixelated, distorted, ugly, amateur, unprofessional, bad anatomy, bad proportions, deformed, disfigured, mutation, poorly drawn, bad composition, boring, generic, stock photo, photograph, realistic photo",
+      "clip": [
+        "4",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Negative Prompt)"
+    }
+  },
+  "8": {
+    "inputs": {
+      "samples": [
+        "3",
+        0
+      ],
+      "vae": [
+        "4",
+        2
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "9": {
+    "inputs": {
+      "filename_prefix": "Publisher-Header-JuggernautXL",
+      "images": [
+        "8",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Header Image"
+    }
+  }
+}

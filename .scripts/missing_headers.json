@@ -1,0 +1,1545 @@
+{
+  "total": 154,
+  "publishers": [
+    {
+      "name": "12bis",
+      "path": "_incomplete/12bis",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": true,
+      "test_header_count": 2,
+      "publisher_name": "12bis",
+      "description": "Jeune maison d'édition indépendante de BD, chez 12 bis on est animé par la passion des bd, et on fon"
+    },
+    {
+      "name": "6 Pieds Sous Terre",
+      "path": "_incomplete/6 Pieds Sous Terre",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": true,
+      "test_header_count": 2,
+      "publisher_name": "6 Pieds Sous Terre",
+      "description": "Fondation en 1991.\nLes éditions 6 Pieds sous terre - Bandes dessinées de goût."
+    },
+    {
+      "name": "Actes Sud",
+      "path": "_incomplete/Actes Sud",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Actes Sud",
+      "description": "Issues de l’Atelier de Cartographie Thématique et Statistique (ACTES), les éditions Actes Sud ont ét"
+    },
+    {
+      "name": "Actes Sud - L'An 2",
+      "path": "_incomplete/Actes Sud - L'An 2",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Actes Sud - L'An 2",
+      "description": "Issues de l’Atelier de Cartographie Thématique et Statistique (ACTES), les éditions Actes Sud ont ét"
+    },
+    {
+      "name": "Alayone Comics",
+      "path": "_incomplete/Alayone Comics",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Alayone Comics",
+      "description": "Alayone Comics est un micro-éditeur indépendant de comics créé par les fondateurs de Comics Place, O"
+    },
+    {
+      "name": "Albin Michel",
+      "path": "_incomplete/Albin Michel",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Albin Michel",
+      "description": "Les éditions Albin Michel sont une maison d'édition française indépendante, fondée en 1900 par Albin"
+    },
+    {
+      "name": "Alpen Publishers",
+      "path": "_incomplete/Alpen Publishers",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Alpen Publishers",
+      "description": "Alpen Publishers est une maison d'édition suisse de bande dessinée créée par Fabrice Giger peu avant"
+    },
+    {
+      "name": "Amok éditions",
+      "path": "_incomplete/Amok éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Amok éditions",
+      "description": "Amok est une maison d’édition indépendante créée en 2016 et implantée à La Rochelle.\n\n​Nous avons ch"
+    },
+    {
+      "name": "Appro",
+      "path": "_incomplete/Appro",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Appro",
+      "description": "Nom cité dans des bases BD sans traces d’un éditeur structuré."
+    },
+    {
+      "name": "Arboris",
+      "path": "_incomplete/Arboris",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Arboris",
+      "description": "Éditeur belge majeur des années 80–90, spécialisé BD européenne et érotique."
+    },
+    {
+      "name": "Artège Éditions",
+      "path": "_incomplete/Artège Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Artège Éditions",
+      "description": "Maison d'édition catholique appartenant au groupe de presse et édition Elidia.\n Suite à la création "
+    },
+    {
+      "name": "Audie",
+      "path": "_incomplete/Audie",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Audie",
+      "description": "Détails Éditions Audie Depuis :  1975 75013 Paris, France"
+    },
+    {
+      "name": "Autrement",
+      "path": "_incomplete/Autrement",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Autrement",
+      "description": "Autrement est une maison d’édition généraliste qui publie des essais et documents, des romans frança"
+    },
+    {
+      "name": "BD Must",
+      "path": "_incomplete/BD Must",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "BD Must",
+      "description": "BD Must c'est plus de 15 d'expérience en tant qu'Artisan Editeur, plus de 100 Tirages de Tête et 80 "
+    },
+    {
+      "name": "BD Star",
+      "path": "_incomplete/BD Star",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "BD Star",
+      "description": "BD'Star est créée en 1978 par Francis Slomka, journaliste à Antenne 2, responsable du secteur bande "
+    },
+    {
+      "name": "BDouin",
+      "path": "_incomplete/BDouin",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "BDouin",
+      "description": "Jusqu’en 2009, Norédine Allam est un artiste connu et reconnu dans le petit monde de bande dessinée "
+    },
+    {
+      "name": "Bac@Bd",
+      "path": "_incomplete/Bac@Bd",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bac@Bd",
+      "description": "Structure référencée ponctuellement dans des bases BD, sans activité éditoriale claire."
+    },
+    {
+      "name": "Bayard",
+      "path": "_incomplete/Bayard",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bayard",
+      "description": "De l'album à la BD, du livre de poche au roman et au documentaire , le catalogue jeunesse de Bayard "
+    },
+    {
+      "name": "Bibliotheca Virtualis",
+      "path": "_incomplete/Bibliotheca Virtualis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bibliotheca Virtualis",
+      "description": "Projet éditorial expérimental ou associatif sans continuité commerciale."
+    },
+    {
+      "name": "Bliss Comics",
+      "path": "_incomplete/Bliss Comics",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bliss Comics",
+      "description": "Bliss Comics est un éditeur créé en 2016 pour publier l’univers des comics Valiant en France. Avec 9"
+    },
+    {
+      "name": "Boomerang",
+      "path": "_incomplete/Boomerang",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Boomerang",
+      "description": "Boomerang éditeur jeunesse poursuit activement sa mission qui est de donner le goût de lire et de rê"
+    },
+    {
+      "name": "Bragelonne - Milady",
+      "path": "_incomplete/Bragelonne - Milady",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bragelonne - Milady",
+      "description": "Le groupe Bragelonne, c’est l’histoire curieuse d’une bande de potes qui, en voulant partager leur p"
+    },
+    {
+      "name": "Bédésup",
+      "path": "_incomplete/Bédésup",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Bédésup",
+      "description": "Structure pédagogique liée à la BD, sans activité éditoriale commerciale durable."
+    },
+    {
+      "name": "Cambourakis",
+      "path": "_incomplete/Cambourakis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Cambourakis",
+      "description": "Cambourakis est une maison d'édition francaise de bande dessinee , de littérature, de littérature je"
+    },
+    {
+      "name": "Capitol Éditions",
+      "path": "_incomplete/Capitol Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Capitol Éditions",
+      "description": "Maison d’édition ancienne, peu documentée, sans présence numérique."
+    },
+    {
+      "name": "Caravelle",
+      "path": "_incomplete/Caravelle",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Caravelle",
+      "description": "Qui ne rêve pas d'admirer des panoramas aussi photogéniques qu'inédits ? D'être le voyeur des us et "
+    },
+    {
+      "name": "Casterman",
+      "path": "_incomplete/Casterman",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Casterman",
+      "description": "Les éditions Casterman, fondées en 1777, ont évolué pour répondre aux attentes éditoriales de leur é"
+    },
+    {
+      "name": "Cerises & Coquelicots",
+      "path": "_incomplete/Cerises & Coquelicots",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Cerises & Coquelicots",
+      "description": "En 2005 Patrice Pierrat, gérant de la SARL Cerises & Coquelicots tournée vers la communication, déci"
+    },
+    {
+      "name": "Clair de Lune",
+      "path": "_incomplete/Clair de Lune",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Clair de Lune",
+      "description": "Clair de Lune est une maison d'édition française spécialisée dans la bande dessinée, fondée en avril"
+    },
+    {
+      "name": "Claude Lefrancq Éditeur (CLE)",
+      "path": "_incomplete/Claude Lefrancq Éditeur (CLE)",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Claude Lefrancq Éditeur (CLE)",
+      "description": "Éditeur belge reconnu (années 80–90), spécialisé BD adulte et indépendante."
+    },
+    {
+      "name": "Comics USA",
+      "path": "_incomplete/Comics USA",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Comics USA",
+      "description": "Éditions USA était un éditeur français spécialisé dans les comics. Il a été lancé en janvier 1995 1 "
+    },
+    {
+      "name": "Contre-dires",
+      "path": "_incomplete/Contre-dires",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Contre-dires",
+      "description": "Liberté de pensée et liberté d’expression, Contre-Dires est une marque éditoriale libertaire mais au"
+    },
+    {
+      "name": "Cornélius",
+      "path": "_incomplete/Cornélius",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Cornélius",
+      "description": "Maison d’édition française créée en 1991 et spécialisée dans la bande dessinée."
+    },
+    {
+      "name": "DC Comics",
+      "path": "_incomplete/DC Comics",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "DC Comics",
+      "description": ""
+    },
+    {
+      "name": "Daniel Maghen",
+      "path": "_incomplete/Daniel Maghen",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Daniel Maghen",
+      "description": "La galerie Daniel Maghen c’est avant tout une histoire de passion. Celle de Daniel Maghen, son fonda"
+    },
+    {
+      "name": "De La Martinière Jeunesse",
+      "path": "_incomplete/De La Martinière Jeunesse",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "De La Martinière Jeunesse",
+      "description": ""
+    },
+    {
+      "name": "Denoël",
+      "path": "_incomplete/Denoël",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Denoël",
+      "description": "Depuis 1930, Denoël propose une littérature engagée, française & étrangère, imaginaire & noire, ains"
+    },
+    {
+      "name": "Des ronds dans l'O",
+      "path": "_incomplete/Des ronds dans l'O",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Des ronds dans l'O",
+      "description": "Chouette maison d'édition indépendante privilégiant la liberté d'expression à commencer par celle qu"
+    },
+    {
+      "name": "Desinge - Hugo & Cie",
+      "path": "_incomplete/Desinge - Hugo & Cie",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Desinge - Hugo & Cie",
+      "description": "Label graphique rattaché à Hugo & Cie, orienté BD et illustration."
+    },
+    {
+      "name": "Dominique et compagnie",
+      "path": "_incomplete/Dominique et compagnie",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Dominique et compagnie",
+      "description": "Dominique Payette, petite fille d'imprimeur et fille d'éditeur qui a fondé en 1997 cette maison d'éd"
+    },
+    {
+      "name": "Drugstore",
+      "path": "_incomplete/Drugstore",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Drugstore",
+      "description": "Les éditions Vent des savanes qui reprenaient le catalogue BD d’Albin Michel changent de nom dès sep"
+    },
+    {
+      "name": "Dynamite",
+      "path": "_incomplete/Dynamite",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Dynamite",
+      "description": "Dynamite, fondé en 2002 est un label de \"La musardine\"."
+    },
+    {
+      "name": "Dédales Éditions",
+      "path": "_incomplete/Dédales Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Dédales Éditions",
+      "description": "Dédales est une association charentaise d’artistes et d’auteurs de bande dessinée issus des écoles d"
+    },
+    {
+      "name": "EP Media",
+      "path": "_incomplete/EP Media",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "EP Media",
+      "description": ""
+    },
+    {
+      "name": "Editions Marcel Daubin",
+      "path": "_incomplete/Editions Marcel Daubin",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Editions Marcel Daubin",
+      "description": "Éditeur ancien, activité limitée et non maintenue en ligne."
+    },
+    {
+      "name": "Editions du Miroir",
+      "path": "_incomplete/Editions du Miroir",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Editions du Miroir",
+      "description": "Maison d’édition historique sans continuité numérique."
+    },
+    {
+      "name": "Ego comme X",
+      "path": "_incomplete/Ego comme X",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Ego comme X",
+      "description": "ego comme x est le nom d'une maison d'édition française de bande dessinée créée à Angoulême en 1994."
+    },
+    {
+      "name": "Emmanuel Proust Éditions",
+      "path": "_incomplete/Emmanuel Proust Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Emmanuel Proust Éditions",
+      "description": "Éditeur BD reconnu, actif jusqu’aux années 2010."
+    },
+    {
+      "name": "Eyrolles",
+      "path": "_incomplete/Eyrolles",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Eyrolles",
+      "description": "Le Groupe Eyrolles est présent sur Internet depuis 1997, avec des sites web consacrés à son activité"
+    },
+    {
+      "name": "Filidalo",
+      "path": "_incomplete/Filidalo",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Filidalo",
+      "description": "Filidalo, Éditeur de toutes façons"
+    },
+    {
+      "name": "Flammarion",
+      "path": "_incomplete/Flammarion",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Flammarion",
+      "description": "Flammarion est une maison d’édition généraliste qui explore les domaines de la littérature, des scie"
+    },
+    {
+      "name": "Fleurus",
+      "path": "_incomplete/Fleurus",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Fleurus",
+      "description": "Les éditions Fleurus sont une filiale de Média-Participations, l'un des plus importants groupes fran"
+    },
+    {
+      "name": "Fordis",
+      "path": "_incomplete/Fordis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Fordis",
+      "description": "Détails Site Internet : Fordis Books and Pictures Fordis Books and Pictures Depuis :  2015 60300 Sen"
+    },
+    {
+      "name": "France Loisirs",
+      "path": "_incomplete/France Loisirs",
+      "has_work_headers": true,
+      "work_header_count": 3,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "France Loisirs",
+      "description": "Fondé en 1970, France Loisirs est aujourd’hui le plus grand Club de livres en France. Le club propos"
+    },
+    {
+      "name": "Galerie Dock Sud",
+      "path": "_incomplete/Galerie Dock Sud",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Galerie Dock Sud",
+      "description": "Galerie et structure de diffusion artistique liée à la BD et illustration."
+    },
+    {
+      "name": "Gallimard Jeunesse",
+      "path": "_incomplete/Gallimard Jeunesse",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Gallimard Jeunesse",
+      "description": "Les éditions Gallimard, appelées jusqu’en 1919 les éditions de la Nouvelle Revue française et jusqu’"
+    },
+    {
+      "name": "Gautier-Languereau",
+      "path": "_incomplete/Gautier-Languereau",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Gautier-Languereau",
+      "description": "Maison d’albums, maison d’histoires, maison d’images…\nDepuis plus de 130 ans, Gautier-Languereau pro"
+    },
+    {
+      "name": "Glénat - Éditions du Patrimoine",
+      "path": "_incomplete/Glénat - Éditions du Patrimoine",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Glénat - Éditions du Patrimoine",
+      "description": "Créée en 1969 par Jacques Glénat, Glénat est une maison d'édition française spécialisée dans les dom"
+    },
+    {
+      "name": "Grasset",
+      "path": "_incomplete/Grasset",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Grasset",
+      "description": "Les Éditions Bernard Grasset fondées en 1907 ont été successivement présidées par son fondateur et d"
+    },
+    {
+      "name": "Graton (Dupuis)",
+      "path": "_incomplete/Graton (Dupuis)",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Graton (Dupuis)",
+      "description": "Depuis sa création en 1938, Dupuis développe des bandes dessinées qui passionnent le grand public.\n\n"
+    },
+    {
+      "name": "Groupe Modus",
+      "path": "_incomplete/Groupe Modus",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Groupe Modus",
+      "description": "Groupe Modus est l’un des principaux groupes d’édition de langue française au Canada et bon nombre d"
+    },
+    {
+      "name": "Grrr...Art Éditions",
+      "path": "_incomplete/Grrr...Art Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Grrr...Art Éditions",
+      "description": "Nous ne sommes pas une agence de communication...\nMais des auteurs (devenus acteurs!) dans le monde "
+    },
+    {
+      "name": "Hachette",
+      "path": "_incomplete/Hachette",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Hachette",
+      "description": ""
+    },
+    {
+      "name": "Harlequin Comics en Français",
+      "path": "_incomplete/Harlequin Comics en Français",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Harlequin Comics en Français",
+      "description": "Lorsqu'en 1978 Harlequin arrive en France, l’éditeur rencontre aussitôt un succès phénoménal. S’insc"
+    },
+    {
+      "name": "Hors Collection",
+      "path": "_incomplete/Hors Collection",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Hors Collection",
+      "description": "Hors Collection, éditeur de livres non conventionnels depuis 1991.\n\nLes livres Hors Collection parle"
+    },
+    {
+      "name": "Huginn & Muninn",
+      "path": "_incomplete/Huginn & Muninn",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Huginn & Muninn",
+      "description": "Hier, les trois mousquetaires, Tom Sawyer, Little Nemo, Fantômas, Tarzan, Belphégor...\n\nAujourd’hui,"
+    },
+    {
+      "name": "Hugo & Cie",
+      "path": "_incomplete/Hugo & Cie",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Hugo & Cie",
+      "description": "Maison d’édition française généraliste, BD, romans graphiques, littérature."
+    },
+    {
+      "name": "I.P.M. - International Presse Magazine",
+      "path": "_incomplete/I.P.M. - International Presse Magazine",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "I.P.M. - International Presse Magazine",
+      "description": "Éditeur de presse et magazines, activité cessée."
+    },
+    {
+      "name": "Ici Même Éditions",
+      "path": "_incomplete/Ici Même Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Ici Même Éditions",
+      "description": "Editeur de bandes dessinées et livres illustrés.\n\nCréée en novembre 2012, la maison d’édition tire s"
+    },
+    {
+      "name": "JYB Aventures",
+      "path": "_incomplete/JYB Aventures",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "JYB Aventures",
+      "description": "Détails JYB-Aventures De : 2001 à : 2024 35000 Rennes, France Repris par : Éditions Nuage Bandes des"
+    },
+    {
+      "name": "Joker Editions",
+      "path": "_incomplete/Joker Editions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Joker Editions",
+      "description": "Les Éditions Joker sont la marque de la maison d'édition spécialisée dans la bande dessinée P&T Prod"
+    },
+    {
+      "name": "Kana",
+      "path": "_incomplete/Kana",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kana",
+      "description": "début en 2012.\nKana est une maison d'édition spécialisée dans le manga. Nous publions notamment Baku"
+    },
+    {
+      "name": "Kantik",
+      "path": "_incomplete/Kantik",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kantik",
+      "description": "En décembre 2011, les éditions Kantik ont mis la clé sous la porte."
+    },
+    {
+      "name": "Kazé",
+      "path": "_incomplete/Kazé",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kazé",
+      "description": "Kazé est un éditeur pionnier de l'animation japonaise présent depuis 1994 en France et depuis 2010 e"
+    },
+    {
+      "name": "Kennes Éditions",
+      "path": "_incomplete/Kennes Éditions",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kennes Éditions",
+      "description": "Tombé très jeune dans la marmite de la bande dessinée, Dimitri Kennes entre aux Éditions Dupuis en 1"
+    },
+    {
+      "name": "Kesselring",
+      "path": "_incomplete/Kesselring",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kesselring",
+      "description": "Détails Kesselring Editeur De : 1974 à : 1990 1003 Lausannne, Suisse"
+    },
+    {
+      "name": "Kontre Kulture",
+      "path": "_incomplete/Kontre Kulture",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Kontre Kulture",
+      "description": "Maison d’édition idéologique, essais, BD et ouvrages militants."
+    },
+    {
+      "name": "L'Association",
+      "path": "_incomplete/L'Association",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "L'Association",
+      "description": ""
+    },
+    {
+      "name": "LUG",
+      "path": "_incomplete/LUG",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "LUG",
+      "description": "Lug était une maison d'édition lyonnaise spécialisée dans la bande dessinée qui fut créée en 1950 pa"
+    },
+    {
+      "name": "La Cinquième Couche",
+      "path": "_incomplete/La Cinquième Couche",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "La Cinquième Couche",
+      "description": "La Cinquième Couche est une maison d'édition belge indépendante. La Cinquième Couche, dite aussi 5c,"
+    },
+    {
+      "name": "La Pastèque",
+      "path": "_incomplete/La Pastèque",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "La Pastèque",
+      "description": "La Pastèque a reçu ses lettres patentes en juillet 1998 et sa première publication, Spoutnik 1, a ét"
+    },
+    {
+      "name": "La boîte à bulles",
+      "path": "_incomplete/La boîte à bulles",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "La boîte à bulles",
+      "description": "La Boîte à Bulles est une maison d'édition spécialisée dans la bande dessinée indépendante aussi bie"
+    },
+    {
+      "name": "La joie de lire",
+      "path": "_incomplete/La joie de lire",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "La joie de lire",
+      "description": "L’histoire de La Joie de lire remonte à 1937, lorsque Paul Robert fonde à Genève la librairie du mêm"
+    },
+    {
+      "name": "Larousse",
+      "path": "_incomplete/Larousse",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Larousse",
+      "description": "Larousse, dont le logo est familier à toutes les générations depuis cent cinquante ans, est l’une de"
+    },
+    {
+      "name": "Le Livre de Poche",
+      "path": "_incomplete/Le Livre de Poche",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Le Livre de Poche",
+      "description": "C’est en février 1953 que paraissent les premiers « Livre de Poche », Koenigsmark de Pierre Benoit ("
+    },
+    {
+      "name": "Le Téméraire",
+      "path": "_incomplete/Le Téméraire",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Le Téméraire",
+      "description": "Éditeur et journal illustré français des années 40."
+    },
+    {
+      "name": "Le potager moderne",
+      "path": "_incomplete/Le potager moderne",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Le potager moderne",
+      "description": "Label éditorial marginal sans présence web connue."
+    },
+    {
+      "name": "Les Arènes",
+      "path": "_incomplete/Les Arènes",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Arènes",
+      "description": "Éditeur indépendant depuis 1997.\nEn 1997, alors que j'étais éditeur chez Stock, le groupe Lagardère "
+    },
+    {
+      "name": "Les Enfants Rouges",
+      "path": "_incomplete/Les Enfants Rouges",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Enfants Rouges",
+      "description": "Les Enfants Rouges sont nés en 2006. Editions de bandes dessinées et romans graphiques, de récits co"
+    },
+    {
+      "name": "Les Machines",
+      "path": "_incomplete/Les Machines",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Machines",
+      "description": "Les Machines est une association de micro-édition de bande dessinée basée à Toulouse, \ncomposée de d"
+    },
+    {
+      "name": "Les Malins",
+      "path": "_incomplete/Les Malins",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Malins",
+      "description": "Maison d’édition jeunesse québécoise\nLire, c’est pas plate !\n\nMaison d’édition jeunesse fondée en 20"
+    },
+    {
+      "name": "Les Requins Marteaux",
+      "path": "_incomplete/Les Requins Marteaux",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Requins Marteaux",
+      "description": "Basés à Bordeaux depuis 2011, Les Requins Marteaux développent depuis bientôt deux décennies une str"
+    },
+    {
+      "name": "Les Rêveurs",
+      "path": "_incomplete/Les Rêveurs",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Rêveurs",
+      "description": "Les Rêveurs est un tout petit éditeur qui participe avec les auteurs à l’édition de bandes dessinées"
+    },
+    {
+      "name": "Les Éditions Fei",
+      "path": "_incomplete/Les Éditions Fei",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les Éditions Fei",
+      "description": "Les Editions Fei sont spécialisées dans la bande dessinée franco-chinoise.\nCréées en 2009 par XU Ge "
+    },
+    {
+      "name": "Les éditions de la Gouttière",
+      "path": "_incomplete/Les éditions de la Gouttière",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Les éditions de la Gouttière",
+      "description": "L’histoire des éditions de la Gouttière est avant tout une histoire de rencontres…\n\nEncouragée par l"
+    },
+    {
+      "name": "Lounak",
+      "path": "_incomplete/Lounak",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Lounak",
+      "description": "Les éditions Lounak publient de la bande dessinée associée aux littératures de l'imaginaire. Elles s"
+    },
+    {
+      "name": "Lucky Comics",
+      "path": "_incomplete/Lucky Comics",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Lucky Comics",
+      "description": "Éditeur ou label de diffusion comics sans site actif."
+    },
+    {
+      "name": "Magic Strip",
+      "path": "_incomplete/Magic Strip",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Magic Strip",
+      "description": "Magic~Strip est une maison d'édition de bande dessinée belge, fondée en novembre 1979 à Bruxelles, p"
+    },
+    {
+      "name": "Makaka Editions",
+      "path": "_incomplete/Makaka Editions",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Makaka Editions",
+      "description": "Makaka Editions, fondée en 2007 par Karine Laca et Shuky Medina a pour but de lancer et promouvoir l"
+    },
+    {
+      "name": "Marabout",
+      "path": "_incomplete/Marabout",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Marabout",
+      "description": "Date de création 1949.\n\nMarabout est un éditeur du groupe Hachette Livre.\n\nLeader sur le marché du l"
+    },
+    {
+      "name": "Marvel",
+      "path": "_incomplete/Marvel",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Marvel",
+      "description": ""
+    },
+    {
+      "name": "Marvel - MAX",
+      "path": "_incomplete/Marvel - MAX",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Marvel - MAX",
+      "description": "Label adulte de Marvel Comics pour contenus matures."
+    },
+    {
+      "name": "Milan",
+      "path": "_incomplete/Milan",
+      "has_work_headers": true,
+      "work_header_count": 3,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Milan",
+      "description": "En 1980, quatre amis créent Milan-Presse à Toulouse : Patrice Amen est éditeur, libraire, collection"
+    },
+    {
+      "name": "Mosquito",
+      "path": "_incomplete/Mosquito",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Mosquito",
+      "description": "En 1989 Mosquito, maison d’édition indépendante, débute dans le monde de la bande dessinée. Avec un "
+    },
+    {
+      "name": "Naïve",
+      "path": "_incomplete/Naïve",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Naïve",
+      "description": ""
+    },
+    {
+      "name": "Nickel Productions",
+      "path": "_incomplete/Nickel Productions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Nickel Productions",
+      "description": "Détails Nickel Productions De : 1999 à : 2017 91170 Viry-Châtillon, France Sous l'impulsion de Jacqu"
+    },
+    {
+      "name": "Noir Dessin Production",
+      "path": "_incomplete/Noir Dessin Production",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Noir Dessin Production",
+      "description": "Maison d'édition spécialisée dans les produits wallons depuis 20 ans, Noir Dessin Production vous pr"
+    },
+    {
+      "name": "Norma Editorial",
+      "path": "_incomplete/Norma Editorial",
+      "has_work_headers": true,
+      "work_header_count": 3,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Norma Editorial",
+      "description": "Grand éditeur espagnol de BD, comics et manga."
+    },
+    {
+      "name": "Office des publications officielles des communauté",
+      "path": "_incomplete/Office des publications officielles des communauté",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Office des publications officielles des communauté",
+      "description": ""
+    },
+    {
+      "name": "Pan pan",
+      "path": "_incomplete/Pan pan",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Pan pan",
+      "description": "Label ou éditeur mineur sans informations consolidées."
+    },
+    {
+      "name": "Paquet",
+      "path": "_incomplete/Paquet",
+      "has_work_headers": true,
+      "work_header_count": 4,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Paquet",
+      "description": "Fondation en 1997."
+    },
+    {
+      "name": "Parfum d'encre",
+      "path": "_incomplete/Parfum d'encre",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Parfum d'encre",
+      "description": "Maison d’édition indépendante BD, activité arrêtée."
+    },
+    {
+      "name": "Petit Homme",
+      "path": "_incomplete/Petit Homme",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Petit Homme",
+      "description": "Dernières-nées du Groupe Homme, les Éditions Petit Homme publient des documentaires, des albums éduc"
+    },
+    {
+      "name": "Philéas",
+      "path": "_incomplete/Philéas",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Philéas",
+      "description": "Phileas est une nouvelle maison dédiée à la publication de bandes dessinées et romans graphiques de "
+    },
+    {
+      "name": "Physalis",
+      "path": "_incomplete/Physalis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Physalis",
+      "description": "Détails Old Site : http://www.editions-physalis.com/ Éditions Physalis De : 2012 à : 2015 76230 Bois"
+    },
+    {
+      "name": "Pierre Papier Chicon",
+      "path": "_incomplete/Pierre Papier Chicon",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Pierre Papier Chicon",
+      "description": "Label ou micro-éditeur artisanal."
+    },
+    {
+      "name": "Pointe Noire",
+      "path": "_incomplete/Pointe Noire",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Pointe Noire",
+      "description": "Détails Wikipédia : Pointe Noire Pointe Noire De : 1999 à : 2002 75015 Paris, France <!-- function t"
+    },
+    {
+      "name": "Presses aventure",
+      "path": "_incomplete/Presses aventure",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Presses aventure",
+      "description": "Division du Groupe Modus, Presses Aventure est une maison d'édition jeunesse québécoise. Nous aimons"
+    },
+    {
+      "name": "Presses de la Cité",
+      "path": "_incomplete/Presses de la Cité",
+      "has_work_headers": true,
+      "work_header_count": 3,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Presses de la Cité",
+      "description": "Un patrimoine exceptionnel et un ancrage fort dans la littérature étrangère, une proposition riche a"
+    },
+    {
+      "name": "Rackham",
+      "path": "_incomplete/Rackham",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Rackham",
+      "description": "Fondée en 1989 par Alain David et Michel Lablanquie, Rackham compte parmi les plus anciens éditeurs "
+    },
+    {
+      "name": "Reprodukt",
+      "path": "_incomplete/Reprodukt",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Reprodukt",
+      "description": "Éditeur allemand de BD indépendante et romans graphiques."
+    },
+    {
+      "name": "Rossel",
+      "path": "_incomplete/Rossel",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Rossel",
+      "description": "Détails Rossel Éditions 1000 Bruxelles, Belgique"
+    },
+    {
+      "name": "Sangam - Le Castor astral",
+      "path": "_incomplete/Sangam - Le Castor astral",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Sangam - Le Castor astral",
+      "description": "Les éditions Le Castor Astral ont été créées à Bordeaux en 1975 par deux étudiants en “Carrières du "
+    },
+    {
+      "name": "Sarbacane",
+      "path": "_incomplete/Sarbacane",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Sarbacane",
+      "description": "Sarbacane est une maison d’édition indépendante, créée en 2003, détenant plus de 800 titres à son ca"
+    },
+    {
+      "name": "Scutella Editions",
+      "path": "_incomplete/Scutella Editions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Scutella Editions",
+      "description": "Scutella Editions éditeur indépendant basé à Angoulême,voit le jour en janvier 2009, et mène ainsi s"
+    },
+    {
+      "name": "Seuil",
+      "path": "_incomplete/Seuil",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Seuil",
+      "description": "L'ambition des fondateurs du Seuil est aujourd'hui intacte et plus utile que jamais. Fort de ces con"
+    },
+    {
+      "name": "Sixto Éditions",
+      "path": "_incomplete/Sixto Éditions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Sixto Éditions",
+      "description": "Label éditorial peu documenté."
+    },
+    {
+      "name": "Soleil Productions",
+      "path": "_incomplete/Soleil Productions",
+      "has_work_headers": true,
+      "work_header_count": 2,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Soleil Productions",
+      "description": "L’aventure Soleil débute en 1989 grâce à la volonté et l’envie de Mourad Boudjellal de se lancer dan"
+    },
+    {
+      "name": "Steinkis",
+      "path": "_incomplete/Steinkis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Steinkis",
+      "description": "Depuis 2011, les éditions Steinkis, créées par Moïse Kissous, ont à cœur de construire un catalogue "
+    },
+    {
+      "name": "Super Loto Editions",
+      "path": "_incomplete/Super Loto Editions",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Super Loto Editions",
+      "description": "Super Loto Éditions c'est, au cœur du grand boulier de la vie, d'abord et surtout l'ambition de quel"
+    },
+    {
+      "name": "Tabou",
+      "path": "_incomplete/Tabou",
+      "has_work_headers": true,
+      "work_header_count": 5,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Tabou",
+      "description": "Depuis 2005, les éditions Tabou sont une référence en matière d’érotisme, de thématiques controversé"
+    },
+    {
+      "name": "Tapages Nocturnes",
+      "path": "_incomplete/Tapages Nocturnes",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Tapages Nocturnes",
+      "description": "Détails Tapages Nocturnes De : 2015 à : 2022"
+    },
+    {
+      "name": "Taste y Cool",
+      "path": "_incomplete/Taste y Cool",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Taste y Cool",
+      "description": "Label sans activité publique identifiée."
+    },
+    {
+      "name": "The Hoochie Coochie",
+      "path": "_incomplete/The Hoochie Coochie",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "The Hoochie Coochie",
+      "description": "Au fil de son existence, The Hoochie Coochie accueille au sein de ses revues nombre d’auteurs débuta"
+    },
+    {
+      "name": "Theloma",
+      "path": "_incomplete/Theloma",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Theloma",
+      "description": "Maison d’édition mineure sans site."
+    },
+    {
+      "name": "Tonkam",
+      "path": "_incomplete/Tonkam",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Tonkam",
+      "description": "Détails Tonkam De : 1993 à : 2014 Repris par : Delcourt"
+    },
+    {
+      "name": "Urban China",
+      "path": "_incomplete/Urban China",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Urban China",
+      "description": "Entre tradition et modernité, la ligne éditoriale d’Urban China a pour vocation de faire découvrir a"
+    },
+    {
+      "name": "Vertige Graphic",
+      "path": "_incomplete/Vertige Graphic",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Vertige Graphic",
+      "description": "Vertige Graphic est une maison d'édition française de bande dessinée créée en janvier 1987 par Giust"
+    },
+    {
+      "name": "Warum",
+      "path": "_incomplete/Warum",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Warum",
+      "description": "Fondée en 2004 par deux auteurs issus des arts décoratifs de Paris, Benoît Preteseille et Wandrille "
+    },
+    {
+      "name": "Zanpano",
+      "path": "_incomplete/Zanpano",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Zanpano",
+      "description": "Détails Site Internet : Zanpano.com Zanpano édition 75018 Paris, France"
+    },
+    {
+      "name": "Zenda",
+      "path": "_incomplete/Zenda",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Zenda",
+      "description": "Zenda est une maison d'édition française spécialisée dans la bande dessinée. Elle a été en activité "
+    },
+    {
+      "name": "Zéphyr Éditions",
+      "path": "_incomplete/Zéphyr Éditions",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Zéphyr Éditions",
+      "description": "Zéphyr est une maison d'édition fondée par le photographe aéronautique Alexandre Paringaux en 1998. "
+    },
+    {
+      "name": "_downloads",
+      "path": "_incomplete/_downloads",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "_downloads",
+      "description": ""
+    },
+    {
+      "name": "bang ediciones",
+      "path": "_incomplete/bang ediciones",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "bang ediciones",
+      "description": "Bang ediciones est une maison d'édition de bandes dessinées basée à Barcelone et qui publie en Franc"
+    },
+    {
+      "name": "petit à petit",
+      "path": "_incomplete/petit à petit",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "petit à petit",
+      "description": "Les collections majeures de Petit à Petit présentent sous la forme originale du Docu-BD les plus bea"
+    },
+    {
+      "name": "Édition pirate",
+      "path": "_incomplete/Édition pirate",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Édition pirate",
+      "description": "Label non institutionnel, probablement alternatif."
+    },
+    {
+      "name": "Éditions Bréal",
+      "path": "_incomplete/Éditions Bréal",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions Bréal",
+      "description": "Éditeur scolaire, universitaire et pédagogique."
+    },
+    {
+      "name": "Éditions Carabas",
+      "path": "_incomplete/Éditions Carabas",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions Carabas",
+      "description": "Carabas est un éditeur français de bande dessinée faisant partie du groupe Tournon qui comprend égal"
+    },
+    {
+      "name": "Éditions FLBLB",
+      "path": "_incomplete/Éditions FLBLB",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions FLBLB",
+      "description": "Fondées en 2002, les éditions FLBLB publient bandes dessi­nées, romans-photos, flip-books, textes il"
+    },
+    {
+      "name": "Éditions Matière",
+      "path": "_incomplete/Éditions Matière",
+      "has_work_headers": true,
+      "work_header_count": 1,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions Matière",
+      "description": "Créées au début de l’année 2003, les Éditions Matière agissent dans les champs de la bande dessinée,"
+    },
+    {
+      "name": "Éditions P'tit Louis",
+      "path": "_incomplete/Éditions P'tit Louis",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions P'tit Louis",
+      "description": "Avec une première publication en 1990, les Editions P'tit Louis sont l'une des très rares sociétés d"
+    },
+    {
+      "name": "Éditions de la Séguinière",
+      "path": "_incomplete/Éditions de la Séguinière",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions de la Séguinière",
+      "description": "Les deux créateurs avaient déjà édité ensemble Iznogoud au sein des Éditions BD'Star un an auparavan"
+    },
+    {
+      "name": "Éditions du Square",
+      "path": "_incomplete/Éditions du Square",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions du Square",
+      "description": "Fin 1982, à la suite de la disparition de la première version de Charlie Hebdo, les Éditions Albin M"
+    },
+    {
+      "name": "Éditions du Taupinambour",
+      "path": "_incomplete/Éditions du Taupinambour",
+      "has_work_headers": false,
+      "work_header_count": 0,
+      "has_test_headers": false,
+      "test_header_count": 0,
+      "publisher_name": "Éditions du Taupinambour",
+      "description": "L’histoire de Taupinambour débute en 1998. Année durant laquelle Bernard Coulange créa le site bdoub"
+    }
+  ]
+}
