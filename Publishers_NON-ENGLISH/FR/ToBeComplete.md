@@ -11,8 +11,6 @@ Total manquants: 193
 - Albin Michel
 - Alpen Publishers
 - Amok éditions
-- André Jobin
-- Ankama Éditions
 - Appro
 - Arboris
 - Artège Éditions
@@ -23,7 +21,6 @@ Total manquants: 193
 - BD Star
 - BDouin
 - Bac@Bd
-- Bamboo Édition
 - Bayard
 - Bibliotheca Virtualis
 - Bidouille
