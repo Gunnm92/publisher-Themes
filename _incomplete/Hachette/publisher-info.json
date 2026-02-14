@@ -18,8 +18,8 @@
   "notes": "",
   "last_updated": "2026-01-18",
   "theme": {
-    "bg": "#eee",
-    "text": "#eee",
+    "bg": "#eeeeee",
+    "text": "#000000",
     "label": "#000000"
   }
 }

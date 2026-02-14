@@ -6,14 +6,14 @@
   "website": "https://www.actes-sud.fr/",
   "assets": {
     "header": "[[FOLDER]]/header.jpg",
-    "logo": "[[FOLDER]]/logo.jpg"
+    "logo": "[[FOLDER]]/logo.png"
   },
   "labels": [],
   "notes": "BD-Tek: Wikipédia : fr.wikipedia.org/wiki/Actes_Sud",
   "last_updated": "2026-01-18",
   "theme": {
     "bg": "#232323",
-    "text": "#232323",
+    "text": "#ffffff",
     "label": "#ffffff"
   }
 }

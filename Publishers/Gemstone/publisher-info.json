@@ -13,6 +13,8 @@
   "notes": "",
   "last_updated": "2026-01-20",
   "theme": {
-    "bg": "#E2DCBC"
+    "bg": "#E2DCBC",
+    "text": "#000000",
+    "label": "#000000"
   }
 }

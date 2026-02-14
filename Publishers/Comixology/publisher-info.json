@@ -14,6 +14,7 @@
   "last_updated": "2026-01-20",
   "theme": {
     "bg": "#989898",
-    "text": "#989898"
+    "text": "#ffffff",
+    "label": "#ffffff"
   }
 }

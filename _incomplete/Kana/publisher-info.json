@@ -13,8 +13,8 @@
   "notes": "BD-Tek: Wikipédia : Kana (maison d'édition) Editions Kana / Dargaud-Lombard",
   "last_updated": "2026-01-18",
   "theme": {
-    "bg": "#fff",
-    "text": "#fff",
+    "bg": "#ffffff",
+    "text": "#000000",
     "label": "#000000"
   }
 }

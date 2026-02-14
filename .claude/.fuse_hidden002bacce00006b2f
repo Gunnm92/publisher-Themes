@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(chmod:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(for dir in */)",
+      "Bash(do if [ ! -f \"$dirheader.jpg\" ])",
+      "Bash([ ! -f \"$dirheader.png\" ])",
+      "Bash(then echo \"$dir%/\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(identify:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)"
+    ]
+  }
+}
